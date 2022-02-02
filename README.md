@@ -10,7 +10,7 @@ Discord: H4rl#5307
 
 Twitter: @H4rl00
 
-##I suck at markdown. I'll fix this up when I can actually find a way to make it look good
+## I suck at markdown. I'll fix this up when I can actually find a way to make it look good
 <!---
 H4rldev/H4rldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
