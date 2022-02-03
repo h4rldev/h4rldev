@@ -5,14 +5,17 @@ You can click the Preview link to take a look at your changes.
 
 ### H4rldev
 ### Languages:
-<marquee>
 <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Learning-C%2B%2B-blue?style=for-the-badge" alt="Learning C++"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C-limegreen?style=for-the-badge" alt="Planning to Learn C"></a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%23-limegreen?style=for-the-badge" alt="Planning to Learn C#"></a>
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/Learning-HTML5-red?style=for-the-badge" alt="Learning HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/Learning-CSS-blue?style=for-the-badge" alt="Learning CSS"></a>
-<a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java-darkred?style=for-the-badge" alt="Planning to Learn Java"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C-green?style=for-the-badge" alt="Planning to Learn Java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/PLanning%20to%20Learn-Javascript-darkred?style=for-the-badge" alt="Planning to Learn Javascript"></a>
+<br>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Python-darkgreen?style=for-the-badge" alt="Planning to Learn Python"></a>
-</marquee><br>
+<a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java-darkred?style=for-the-badge" alt="Planning to Learn Java"></a>
+<br>
 
 #### How to reach me:
 <a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw"><img src="https://img.shields.io/badge/Discord-H4rl%235307-purple?style=for-the-badge" alt="Discord: H4rl#5307"></a> <br>
