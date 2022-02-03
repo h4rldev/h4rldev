@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 ### Languages:
 <marquee>
 <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Learning-C%2B%2B-blue?style=for-the-badge" alt="Learning C++"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/Learning-HTML5-red?style=for-the-badge" alt="Learning HTML"></alt>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/Learning-CSS-blue?style=for-the-badge" alt="Learning CSS"></alt>
-<a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java-darkred?style=for-the-badge" alt="Planning to Learn Java"></alt>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/Learning-HTML5-red?style=for-the-badge" alt="Learning HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/Learning-CSS-blue?style=for-the-badge" alt="Learning CSS"></a>
+<a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java-darkred?style=for-the-badge" alt="Planning to Learn Java"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C-green?style=for-the-badge" alt="Planning to Learn Java"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Python-darkgreen?style=for-the-badge" alt="Planning to Learn Python"></a>
 </marquee><br>
