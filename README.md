@@ -1,6 +1,5 @@
-### @H4rldev
+### H4rldev
 #### Languages:
-<br>
 <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Learning-C%2B%2B-blue?style=for-the-badge" alt="Learning C++"></a> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/Learning-HTML5-red?style=for-the-badge" alt="Learning HTML"> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/Learning-CSS-blue?style=for-the-badge" alt="Learning CSS"> <br>
