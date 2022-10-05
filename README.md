@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### H4rldev
 ### Languages:
-<a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Learning-C%2B%2B-blue?style=for-the-badge" alt="Learning C++"></a>
+<a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%2B%2B-blue?style=for-the-badge" alt="Planning to learn C++"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C-limegreen?style=for-the-badge" alt="Planning to Learn C"></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%23-limegreen?style=for-the-badge" alt="Planning to Learn C#"></a>
 <br>
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/Learning-CSS-blue?style=for-the-badge" alt="Learning CSS"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="https://img.shields.io/badge/PLanning%20to%20Learn-Javascript-darkred?style=for-the-badge" alt="Planning to Learn Javascript"></a>
 <br>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Python-darkgreen?style=for-the-badge" alt="Planning to Learn Python"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/'Learning'-Python-darkgreen?style=for-the-badge" alt="'Learning' Python"></a>
 <a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java-darkred?style=for-the-badge" alt="Planning to Learn Java"></a>
 <br>
 
