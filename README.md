@@ -1,9 +1,9 @@
 <!---
-H4rldev/H4rldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+h4rldev/h4rldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-### H4rldev
+### h4rldev
 ### Languages:
 <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%2B%2B-blue?style=for-the-badge" alt="Planning to learn C++"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C-limegreen?style=for-the-badge" alt="Planning to Learn C"></a>
