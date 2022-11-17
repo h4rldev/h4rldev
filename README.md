@@ -4,7 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### h4rldev
-### Languages:
+
+[![H4rls's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rldev)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages
+
 <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%2B%2B-blue?style=for-the-badge" alt="Planning to learn C++"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C-limegreen?style=for-the-badge" alt="Planning to Learn C"></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%23-limegreen?style=for-the-badge" alt="Planning to Learn C#"></a>
@@ -17,11 +21,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java-darkred?style=for-the-badge" alt="Planning to Learn Java"></a>
 <br>
 
-### How to reach me:
+### How to reach me
+
 <a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw"><img src="https://img.shields.io/badge/Discord-H4rl・ハル%235307-darkgrey?style=for-the-badge" alt="Discord: H4rl#5307"></a> <br>
 <a href="https://twitter.com/h4rl00"><img src="https://img.shields.io/badge/Twitter-%40H4rl00-blue?style=for-the-badge" alt="Twitter: @H4rl00"/></a> 
-
-[![H4rls's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rldev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I suck at markdown. I'll fix this up when I can actually find a way to make it look good
 
