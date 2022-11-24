@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <details align="center">
-<summary>Learning</summary>
+<summary align="center">Learning</summary>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="https://img.shields.io/badge/C-limegreen?style=for-the-badge" alt="C">
     </a>
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details align="center">
-<summary>Plans</summary>
+<summary align="center">Plans</summary>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
         <img src="https://img.shields.io/badge/C%23-limegreen?style=for-the-badge" alt="C#">
     </a>
@@ -62,6 +62,6 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <details align="center">
-<summary>GitHub Metrics</summary>
+<summary align="center">GitHub Metrics</summary>
 <img src= "./github-metrics.svg">
 </details>
