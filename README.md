@@ -31,11 +31,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center", margin=0>Octo-Ring</a>
-<p align="center">
-    <a href="https://octo-ring/register">
-        [Register]
-    </a>
-</p>
 <h2 align="center">
     <a href="https://octo-ring.com/p/h4rldev/prev">
         <
@@ -46,9 +41,11 @@ You can click the Preview link to take a look at your changes.
     <a href="https://octo-ring.com/p/h4rldev/next">
         >
     </a>
-</h2>
-<p align="center">
+    <br>
     <a href="https://octo-ring.com/p/h4rldev/random">
         [Random]
     </a>
-</p>
+        <a href="https://octo-ring/register">
+           [Register]
+    </a>
+</h2>
