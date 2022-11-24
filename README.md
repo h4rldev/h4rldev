@@ -35,12 +35,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p align="center">
     <a href="https://octo-ring.com/p/h4rldev/prev">
-        < Previous
+        < Previous <
     </a>
     <a href="https://octo-ring.com/p/h4rldev/random">
-        Random Account
+           ? Random Account ?   
     </a>
     <a href="https://octo-ring.com/p/h4rldev/next">
-        Next >
+        > Next >
     </a>
 </p>
