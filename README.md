@@ -29,20 +29,15 @@ You can click the Preview link to take a look at your changes.
 ## I suck at markdown. I'll fix this up when I can actually find a way to make it look good
 
 
-
-
-<a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a>
-<br>
 <a href="https://octo-ring.com/p/h4rldev/prev">
     < Previous
 </a>
-<a href="https://octo-ring.com/p/h4rldev/random">
+<a href="https://octo-ring.com/">
+    <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png" height="150px">
+</a>
+<a align="center "href="https://octo-ring.com/p/h4rldev/random">
     - Random profile -
 </a>
 <a href="https://octo-ring.com/p/h4rldev/next">
     Next >
-</a>
-<br>
-<a href="https://octo-ring.com/">
-    - Check out other profiles on Octo Ring -
 </a>
