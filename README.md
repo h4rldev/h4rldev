@@ -31,26 +31,18 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a>
-                <br>
-                <a href="https://octo-ring.com/p/h4rldev/prev">
-                    < Previous
-                </a>
-                <a href="https://octo-ring.com/p/h4rldev/random">
-                    - Random profile -
-                </a>
-                <a href="https://octo-ring.com/p/h4rldev/next">
-                    Next >
-                </a>
-                <br>
-                <a href="https://octo-ring.com/">
-                    - Check out other profiles on Octo Ring -
-                </a>
-</td>
-</tr>
-</tbody>
-</table>
+<a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a>
+<br>
+<a href="https://octo-ring.com/p/h4rldev/prev">
+    < Previous
+</a>
+<a href="https://octo-ring.com/p/h4rldev/random">
+    - Random profile -
+</a>
+<a href="https://octo-ring.com/p/h4rldev/next">
+    Next >
+</a>
+<br>
+<a href="https://octo-ring.com/">
+    - Check out other profiles on Octo Ring -
+</a>
