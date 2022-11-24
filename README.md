@@ -5,32 +5,14 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> h4rldev</h2>
 
-[![H4rls's GitHub stats](https://github-readme-stats.vercel.app/api?username=h4rldev)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw"
+    <img src="https://img.shields.io/badge/Discord-H4rl・ハル%235307-darkgrey?style=for-the-badge" alt="Discord: H4rl・ハル#5307">
+</a>
+<a href="https://twitter.com/h4rl3h">
+    <img src="https://img.shields.io/badge/Twitter-%40H4rl3h-blue?style=for-the-badge" alt="Twitter: @H4rl3h"/>
+</a>
 
-### Languages
-
-<a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%2B%2B-blue?style=for-the-badge" alt="Planning to learn C++"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/Learning-C-limegreen?style=for-the-badge" alt="Planning to Learn C"></a>
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/Planning%20to%20Learn-C%23%20in%20the%20future-limegreen?style=for-the-badge" alt="Planning to Learn C# in the future"></a>
-<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/Learning-HTML5-red?style=for-the-badge" alt="Learning HTML"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/Learning-CSS-blue?style=for-the-badge" alt="Learning CSS"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="https://img.shields.io/badge/PLanning%20to%20Learn-Javascript-darkred?style=for-the-badge" alt="Planning to Learn Javascript"></a>
-<br>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/'Learning'-Python-darkgreen?style=for-the-badge" alt="'Learning' Python"></a>
-<a href="https://java.com"><img src="https://img.shields.io/badge/Planning%20to%20Learn-Java%20in%20the%20future-darkred?style=for-the-badge" alt="Planning to Learn Java"></a>
-<br>
-
-### How to reach me
-
-<a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw"><img src="https://img.shields.io/badge/Discord-H4rl・ハル%235307-darkgrey?style=for-the-badge" alt="Discord: H4rl#5307"></a> <br>
-<a href="https://twitter.com/h4rl00"><img src="https://img.shields.io/badge/Twitter-%40H4rl00-blue?style=for-the-badge" alt="Twitter: @H4rl00"/></a> 
-
-<hr>
-
-
-
-<p align="center", margin=0>Octo-Ring</a>
+<p align="center">Octo-Ring</a>
 <h2 align="center">
     <a href="https://octo-ring.com/p/h4rldev/prev">
         <
@@ -42,10 +24,41 @@ You can click the Preview link to take a look at your changes.
         >
     </a>
     <br>
-    <a href="https://octo-ring.com/p/h4rldev/random">
-        [Random]
-    </a>
-        <a href="https://octo-ring/register">
-           [Register]
+    <a href="https://octo-ring/register">
+           [register]
     </a>
 </h2>
+<details align="center">
+<summary>Learning</summary>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://img.shields.io/badge/C-limegreen?style=for-the-badge" alt="C">
+    </a>
+    <br>
+    <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-darkgreen?style=for-the-badge" alt="Python">
+    </a>
+</details>
+
+<details align="center">
+<summary>Plans</summary>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+        <img src="https://img.shields.io/badge/C%23-limegreen?style=for-the-badge" alt="C#">
+    </a>
+    <br>
+    <a href="https://www.cplusplus.com/">
+        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge" alt="C++">
+    </a>
+    <br>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
+        <img src="https://img.shields.io/badge/Javascript-darkred?style=for-the-badge" alt="Javascript">
+    </a>
+    <br>
+    <a href="https://java.com">
+        <img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge" alt="Java">
+    </a>
+</details>
+
+<details align="center">
+<summary>GitHub Metrics</summary>
+<img src= "./github-metrics.svg">
+</details>
