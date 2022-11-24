@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 
-<h2 align="center">Octo-ring</h2>
 
+<p align="center">Octo-Ring</a>
 <p align="center">
     <a href="https://octo-ring.com/p/h4rldev/prev">
         < 
