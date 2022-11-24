@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">Octo-Ring</a>
+<p align="center", margin=0>Octo-Ring</a>
 <p align="center">
     <a href="https://octo-ring.com/p/h4rldev/prev">
         < 
