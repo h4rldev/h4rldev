@@ -30,18 +30,18 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://octo-ring.com/p/h4rldev/prev">
-        < Previous
+        < 
     </a>
     <a href="https://octo-ring/register">
-        Register
+        [Register]
     </a>
     <a href="https://octo-ring.com/">
         <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png" height="150px">
     </a>
     <a href="https://octo-ring.com/p/h4rldev/random">
-        Random
+        [Random]
     </a>
     <a href="https://octo-ring.com/p/h4rldev/next">
-        Next >
+         >
     </a>
 </p>
