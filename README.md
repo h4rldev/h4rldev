@@ -15,6 +15,13 @@ You can click the Preview link to take a look at your changes.
         alt="Twitter: @H4rl3h"/>
     </a>
 </p>
+<br>
+<p align="center">
+    <a href="https://discord.gg/bMWgD85MJ6">
+        <img src="https://img.shields.io/badge/Discord%20Server-クラウ『ン』-darkgrey?style=for-the-badge"
+        alt="Discord Server: クラウ『ン』">
+    </a>
+</p>
 
 <details align="center">
 <summary align="center">Learning</summary>
