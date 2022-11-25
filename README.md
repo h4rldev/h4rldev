@@ -14,14 +14,13 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Twitter-%40H4rl3h-blue?style=for-the-badge"
         alt="Twitter: @H4rl3h"/>
     </a>
-</p>
-<br>
-<p align="center">
+    <br>
     <a href="https://discord.gg/bMWgD85MJ6">
         <img src="https://img.shields.io/badge/Discord%20Server-クラウ『ン』-darkgrey?style=for-the-badge"
         alt="Discord Server: クラウ『ン』">
     </a>
 </p>
+
 
 <details align="center">
 <summary align="center">Learning</summary>
