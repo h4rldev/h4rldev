@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
+<hr>
+
 <details align="center">
 <summary align="center">Learning</summary>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -50,6 +52,8 @@ You can click the Preview link to take a look at your changes.
         alt="Java">
     </a>
 </details>
+
+<hr>
 
 <p align="center">Octo-Ring</a>
 <h2 align="center">
