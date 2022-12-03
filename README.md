@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 <details align="center">
 <summary align="center">Learning</summary>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://img.shields.io/badge/C-grey?style=for-the-badge" alt="C">
+    <a href="https://www.rust-lang.org/">
+        <img src="https://img.shields.io/badge/Rust-brown?style=for-the-badge" alt="C">
     </a>
     <br>
     <a href="https://www.python.org/">
