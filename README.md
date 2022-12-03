@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <details align="center">
 <summary align="center">Learning</summary>
     <a href="https://www.rust-lang.org/">
-        <img src="https://img.shields.io/badge/Rust-brown?style=for-the-badge" alt="C">
+        <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge" alt="C">
     </a>
     <br>
     <a href="https://www.python.org/">
