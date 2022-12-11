@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
     </a>
     <br>
     <a href="https://discord.gg/bMWgD85MJ6">
-        <img src="https://img.shields.io/badge/Discord%20Server-クラウ『ン』-darkgrey?style=for-the-badge"
-        alt="Discord Server: クラウ『ン』">
+        <img src="https://img.shields.io/badge/Discord%20Server-ani.rs%20%2F%20ani--gui.rs-darkgrey?style=for-the-badge"
+        alt="Discord Server: ani.rs / ani-gui.rs">
     </a>
 </p>
 
