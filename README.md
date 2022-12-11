@@ -26,35 +26,27 @@ You can click the Preview link to take a look at your changes.
 <details align="center">
 <summary align="center">Learning</summary>
     <a href="https://www.rust-lang.org/">
-        <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge" alt="C">
+        <img src="https://skillicons.dev/icons?i=rust" alt="rust">
     </a>
-    <br>
     <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/Python-darkgreen?style=for-the-badge"
-        alt="Python">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python">
     </a>
 </details>
 
 <details align="center">
 <summary align="center">Plans</summary>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-        <img src="https://img.shields.io/badge/C%23-limegreen?style=for-the-badge"
-        alt="C#">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#">
     </a>
-    <br>
     <a href="https://www.cplusplus.com/">
-        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge"
+        <img src="https://skillicons.dev/icons?i=cpp"
         alt="C++">
     </a>
-    <br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
-        <img src="https://img.shields.io/badge/Javascript-darkred?style=for-the-badge"
-        alt="Javascript">
+        <img src="https://skillicons.dev/icons?i=js" alt="Javascript">
     </a>
-    <br>
     <a href="https://java.com">
-        <img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge"
-        alt="Java">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java">
     </a>
 </details>
 
