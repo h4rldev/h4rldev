@@ -35,7 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 <details align="center">
 <summary align="center">Plans</summary>
-    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">![image](https://user-images.githubusercontent.com/98224660/220702577-aacedcf3-d661-4595-a0ef-0a6dc14f9f52.png)
+
         <img src="https://skillicons.dev/icons?i=cs" alt="C#">
     </a>
     <a href="https://www.cplusplus.com/">
@@ -50,10 +51,20 @@ You can click the Preview link to take a look at your changes.
     </a>
 </details>
 
+<details align="center">
+<summary align="center">Waka</summary>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</details>
+
 <hr>
 
-<p align="center">Octo-Ring</a>
 <h2 align="center">
+    <a href=https://octo-ring.com/random>
+           random
+    </a>
+    <br>
     <a href="https://octo-ring.com/p/h4rldev/prev">
         <
     </a>
@@ -66,7 +77,7 @@ You can click the Preview link to take a look at your changes.
     </a>
     <br>
     <a href="https://octo-ring/register">
-           [register]
+           register
     </a>
 </h2>
 
