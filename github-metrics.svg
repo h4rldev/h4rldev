@@ -3137,7 +3137,7 @@ Because it uses variables to store input data. And due to the down and up arrow 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.54m out of 379m repositories</span>
+                                    <span class="gh">ranked 2.57m out of 379m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -3189,7 +3189,7 @@ Because it uses variables to store input data. And due to the down and up arrow 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Feb 2023, 11:10:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 22 Feb 2023, 12:08:17 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
