@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 **🐱 My GitHub Data** 
 
-> 📦 8.8 kB Used in GitHub's Storage 
+> 📦 9.5 kB Used in GitHub's Storage 
  > 
 > 🏆 47 Contributions in the Year 2023
  > 
