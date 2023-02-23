@@ -55,16 +55,15 @@ You can click the Preview link to take a look at your changes.
 <summary align="center">Waka</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Code Time](https://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/Written-7.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.2 kB Used in GitHub's Storage 
+> 📦 13.0 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2023
+> 🏆 49 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,6 +79,9 @@ Python                   0 secs              ███████████�
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+school-progaming-projects0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 WSL                      0 secs              █████████████████████████   100.00 % 
