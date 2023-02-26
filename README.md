@@ -55,13 +55,13 @@ You can click the Preview link to take a look at your changes.
 <summary align="center">Waka</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.7 kB Used in GitHub's Storage 
+> 📦 7.2 kB Used in GitHub's Storage 
  > 
 > 🏆 51 Contributions in the Year 2023
  > 
@@ -75,16 +75,21 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Python                   1 hr 49 mins        ██████████████████████░░░   87.11 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-school-progaming-projects0 secs              █████████████████████████   100.00 % 
+animdl-tui               2 hrs 4 mins        █████████████████████████   99.46 % 
+school-progaming-projects0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-WSL                      0 secs              █████████████████████████   100.00 % 
+WSL                      2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
