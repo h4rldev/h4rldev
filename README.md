@@ -19,7 +19,55 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Discord%20Server-ani%20%2F%20ani--gui-darkgrey?style=for-the-badge"
         alt="Discord Server: ani / ani-gui">
     </a>
+    <br>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Welcome+to+my+readme!" alt="Typing SVG" />
+    </a>
 </p>
+
+<hr>
+<h4 align="center">
+    <details align="center">
+    <summary align="center">Learning</summary>
+        <a href="https://www.rust-lang.org/">
+            <img src="https://skillicons.dev/icons?i=rust" alt="rust">
+        </a>
+        <a href="https://www.python.org/">
+            <img src="https://skillicons.dev/icons?i=py" alt="Python">
+        </a>
+    </details>
+</h4>
+<h4 align="center">
+    <details align="center">
+    <summary align="center">Plans</summary>
+        <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+            <img src="https://skillicons.dev/icons?i=cs" alt="C#">
+        </a>
+        <a href="https://www.cplusplus.com/">
+            <img src="https://skillicons.dev/icons?i=cpp"
+            alt="C++">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
+            <img src="https://skillicons.dev/icons?i=js" alt="Javascript">
+        </a>
+        <a href="https://java.com">
+            <img src="https://skillicons.dev/icons?i=java" alt="Java">
+        </a>
+    </details>
+</h4>
+<h4 align="center">
+    <details align="center">
+    <summary align="center">Waka</summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+    </details>
+</h4>
+<h4 align="center">
+    <details align="center">
+    <summary align="center">GitHub Metrics</summary>
+    <img src= "./github-metrics.svg">
+    </details>
+</h4>
 
 <hr>
 
@@ -43,45 +91,3 @@ You can click the Preview link to take a look at your changes.
            register
     </a>
 </h2>
-
-<hr>
-
-<details align="center">
-<summary align="center">Learning</summary>
-    <a href="https://www.rust-lang.org/">
-        <img src="https://skillicons.dev/icons?i=rust" alt="rust">
-    </a>
-    <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python">
-    </a>
-</details>
-
-<details align="center">
-<summary align="center">Plans</summary>
-    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">![image](https://user-images.githubusercontent.com/98224660/220702577-aacedcf3-d661-4595-a0ef-0a6dc14f9f52.png)
-
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#">
-    </a>
-    <a href="https://www.cplusplus.com/">
-        <img src="https://skillicons.dev/icons?i=cpp"
-        alt="C++">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
-        <img src="https://skillicons.dev/icons?i=js" alt="Javascript">
-    </a>
-    <a href="https://java.com">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java">
-    </a>
-</details>
-
-<details align="center">
-<summary align="center">Waka</summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</details>
- 
-<details align="center">
-<summary align="center">GitHub Metrics</summary>
-<img src= "./github-metrics.svg">
-</details>
