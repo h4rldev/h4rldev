@@ -23,6 +23,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=true&width=435&lines=Welcome+to+my+readme!" alt="Typing SVG" />
     </a>
+    <br>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=mbnaoyqzl039434o89ulhdbuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+    </a>
 </p>
 
 <hr>
