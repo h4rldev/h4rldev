@@ -23,6 +23,29 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
+<h2 align="center">
+    <a href=https://octo-ring.com/p/h4rldev/random>
+           random
+    </a>
+    <br>
+    <a href="https://octo-ring.com/p/h4rldev/prev">
+        <
+    </a>
+    <a href="https://octo-ring.com/">
+        <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png"
+        height="150px">
+    </a>
+    <a href="https://octo-ring.com/p/h4rldev/next">
+        >
+    </a>
+    <br>
+    <a href="https://octo-ring/register">
+           register
+    </a>
+</h2>
+
+<hr>
+
 <details align="center">
 <summary align="center">Learning</summary>
     <a href="https://www.rust-lang.org/">
@@ -55,70 +78,9 @@ You can click the Preview link to take a look at your changes.
 <summary align="center">Waka</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%205%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 7.2 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 49 mins        ██████████████████████░░░   87.11 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-animdl-tui               2 hrs 4 mins        █████████████████████████   99.46 % 
-school-progaming-projects0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-💻 Operating System: 
-WSL                      2 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
-
 <!--END_SECTION:waka-->
 </details>
-
-<hr>
-
-<h2 align="center">
-    <a href=https://octo-ring.com/p/h4rldev/random>
-           random
-    </a>
-    <br>
-    <a href="https://octo-ring.com/p/h4rldev/prev">
-        <
-    </a>
-    <a href="https://octo-ring.com/">
-        <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png"
-        height="150px">
-    </a>
-    <a href="https://octo-ring.com/p/h4rldev/next">
-        >
-    </a>
-    <br>
-    <a href="https://octo-ring/register">
-           register
-    </a>
-</h2>
-
+ 
 <details align="center">
 <summary align="center">GitHub Metrics</summary>
 <img src= "./github-metrics.svg">
