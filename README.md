@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
     </a>
     <br>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Welcome+to+my+readme!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=true&width=435&lines=Welcome+to+my+readme!" alt="Typing SVG" />
     </a>
 </p>
 
