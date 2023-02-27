@@ -98,7 +98,8 @@ WSL                      2 hrs 35 mins       ███████████�
 ```
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--
+
     </details>
 </h4>
 <h4 align="center">
