@@ -47,8 +47,8 @@ You can click the Preview link to take a look at your changes.
             <img src="https://skillicons.dev/icons?i=cpp"
             alt="C++">
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
-            <img src="https://skillicons.dev/icons?i=js" alt="Javascript">
+        <a href="https://www.typescriptlang.org/">
+            <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
         </a>
         <a href="https://java.com">
             <img src="https://skillicons.dev/icons?i=java" alt="Java">
