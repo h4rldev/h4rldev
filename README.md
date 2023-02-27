@@ -6,6 +6,14 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">h4rldev</h2>
 
 <p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=true&width=435&lines=Welcome+to+my+readme!;Feel+free+to+check+my+repos!" alt="Typing SVG" />
+    </a>
+    <br>
+    <a href="https://open.spotify.com/user/mbnaoyqzl039434o89ulhdbuy?si=886e322502c94f11">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=mbnaoyqzl039434o89ulhdbuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+    </a>
+    <br>
     <a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw">
         <img src="https://img.shields.io/badge/Discord-H4rl・ハル%235307-darkgrey?style=for-the-badge"
         alt="Discord: H4rl・ハル#5307">
@@ -14,14 +22,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://discord.gg/bMWgD85MJ6">
         <img src="https://img.shields.io/badge/Discord%20Server-ani%20%2F%20ani--gui-darkgrey?style=for-the-badge"
         alt="Discord Server: ani / ani-gui">
-    </a>
-    <br>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=true&width=435&lines=Welcome+to+my+readme!" alt="Typing SVG" />
-    </a>
-    <br>
-    <a href="https://open.spotify.com/user/mbnaoyqzl039434o89ulhdbuy?si=886e322502c94f11">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=mbnaoyqzl039434o89ulhdbuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
     </a>
 </p>
 
