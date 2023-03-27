@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Intancote/FNF-PE-Maintained</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A (hopefully) more maintained version of PsychEngine with more acceptance for some PRs</div>
@@ -3164,7 +3164,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Mar 2023, 19:12:56 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 27 Mar 2023, 20:12:34 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
