@@ -98,9 +98,9 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
