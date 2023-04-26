@@ -83,16 +83,18 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 8 mins         █████████████████████████   99.68 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+school-progaming-projects1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
