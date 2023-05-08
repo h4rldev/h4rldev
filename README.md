@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     </a>
     <br>
     <a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw">
-        <img src="https://img.shields.io/badge/Discord-H4rl・ハル%235307-darkgrey?style=for-the-badge"
+        <img src="https://lanyard.cnrad.dev/api/275689969601871882"
         alt="Discord: H4rl・ハル#5307">
     </a>
     <br>
