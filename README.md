@@ -2,58 +2,79 @@
 h4rldev/h4rldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h4>Status and Last.FM</h4>
+<a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw">
+    <img src="https://discord.c99.nl/widget/theme-4/275689969601871882.png"
+    alt="Discord: H4rl・ハル#5307">
+</a>
+    <br>
+<a href="https://www.last.fm/user/h4rl3h">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=h4rl3h&count=1" alt="LastFM" />
+</a>
 
-<h2 align="center">h4rldev</h2>
-
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=true&width=435&lines=Welcome+to+my+readme!;Feel+free+to+check+my+repos!" alt="Typing SVG" />
+<h4>Languages and Tools </h4>
+    <a href="https://www.rust-lang.org/">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust">
     </a>
-    <br>
-    <a href="https://open.spotify.com/user/mbnaoyqzl039434o89ulhdbuy?si=886e322502c94f11">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=mbnaoyqzl039434o89ulhdbuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+    <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python">
     </a>
-    <br>
-    <a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw">
-        <img src="https://lanyard.cnrad.dev/api/275689969601871882"
-        alt="Discord: H4rl・ハル#5307">
+    <a href="https://en.wikipedia.org/wiki/Markdown">
+        <img src="https://skillicons.dev/icons?i=md" alt="Markdown">
     </a>
-    <br>
-    <a href="https://discord.gg/bMWgD85MJ6">
-        <img src="https://img.shields.io/badge/Discord%20Server-ani%20%2F%20ani--gui-darkgrey?style=for-the-badge"
-        alt="Discord Server: ani / ani-gui">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
-</p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/WebAssembly">
+        <img src="https://skillicons.dev/icons?i=wasm" alt="Webassembly">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+        <img src="https://skillicons.dev/icons?i=bash" alt="bash">
+    </a>
+    <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="git">
+    </a>
+    <a href="https://github.com/h4rldev/">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
+    </a>
+    <a href="https://neovim.io/">
+        <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim">
+    </a>
+    <a href="https://discord.com">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+    </a>
+    <a href="https://www.linuxfoundation.org/">
+        <img src="https://skillicons.dev/icons?i=linux" alt="linux">
+    </a>
+    
+<h4>Future Languages and Tools </h4>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
+    </a>
+    <a href="https://java.com">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java">
+    </a>
 
 <hr>
-<h4 align="center">
-    <details align="center">
-    <summary align="center">Learning</summary>
-        <a href="https://www.rust-lang.org/">
-            <img src="https://skillicons.dev/icons?i=rust" alt="rust">
-        </a>
-        <a href="https://www.python.org/">
-            <img src="https://skillicons.dev/icons?i=py" alt="Python">
-        </a>
-    </details>
-</h4>
-<h4 align="center">
-    <details align="center">
-    <summary align="center">Plans</summary>
-        <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-            <img src="https://skillicons.dev/icons?i=cs" alt="C#">
-        </a>
-        <a href="https://www.typescriptlang.org/">
-            <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
-        </a>
-        <a href="https://java.com">
-            <img src="https://skillicons.dev/icons?i=java" alt="Java">
-        </a>
-    </details>
-</h4>
-<h4 align="center">
-    <details align="center">
-    <summary align="center">Waka</summary>
+<h4>Data and misc.</h4>
+<details>
+    <summary>Discord Servers</summary>
+    <a href="https://discord.gg/bMWgD85MJ6">
+        ani / ani-gui
+    </a>
+    </br>
+    <a href="https://discord.gg/aPdx2aFN5A">
+        foobar
+    </a>
+</details>
+<details>
+    <summary>Wakatime</summary>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -116,14 +137,11 @@ Lua                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
-</h4>
 
-<h4 align="center">
-    <details align="center">
-    <summary align="center">GitHub Metrics</summary>
+<details>
+    <summary>GitHub Metrics</summary>
     <img src= "./github-metrics.svg">
-    </details>
-</h4>
+</details>
 
 <hr>
 
