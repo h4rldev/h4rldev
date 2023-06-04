@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/h4rldev/">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </a>
-    <a href="https://code.visualstudio.com/">
+    <a href="https://github.com/microsoft/vscode">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
     </a>
     <a href="https://neovim.io/">
