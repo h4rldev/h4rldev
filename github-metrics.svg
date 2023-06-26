@@ -2355,7 +2355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marioortizmanero/polybar-pulseaudio-control</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-full Polybar module to control PulseAudio</div>
@@ -3222,7 +3222,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jun 2023, 15:18:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 26 Jun 2023, 16:09:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
