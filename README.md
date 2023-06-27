@@ -160,3 +160,8 @@ Lua                      1 repo              █░░░░░░░░░░�
            register
     </a>
 </h2>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square)" />
+  </a>
+</p>
