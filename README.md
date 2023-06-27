@@ -161,7 +161,7 @@ Lua                      1 repo              █░░░░░░░░░░�
     </a>
 </h2>
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square)" />
+  <a href="https://github.com/h4rldev">
+    <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square" />
   </a>
 </p>
