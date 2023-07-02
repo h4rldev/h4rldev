@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2911" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2595" class="">
     <defs>
         <style/>
     </defs>
@@ -2674,6 +2674,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c576131</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">h4rldev/h4rldev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#cd38651</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -2727,102 +2747,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">LunarN0v4/discord_status_lyric_linker</span></div>
                                     <div>10 files changed <span class="code">++367 --184</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 33 commits in
-                                        <span class="repo">LunarN0v4/discord_status_lyric_linker</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#df1b299</div>
-                                        <div class="message">revert changes lmao</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bb2fba</div>
-                                        <div class="message">Woo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82592fc</div>
-                                        <div class="message">Test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#357d1a2</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec0f511</div>
-                                        <div class="message">fix compat test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c113b07</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccc319a</div>
-                                        <div class="message">trying to making it prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c84e0dc</div>
-                                        <div class="message">test relative import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d50954c</div>
-                                        <div class="message">Made it prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1406d71</div>
-                                        <div class="message">added currently playing text</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#578b830</div>
-                                        <div class="message">Testing again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61f8ea7</div>
-                                        <div class="message">let's try this</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1652e7</div>
-                                        <div class="message">Let's see if this works</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#969aa78</div>
-                                        <div class="message">and things</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ad3cf3</div>
-                                        <div class="message">Quick fixes and shit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec87344</div>
-                                        <div class="message">use getpass instead</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58a360e</div>
-                                        <div class="message">Fix pip path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08d790b</div>
-                                        <div class="message">Did some extra "fixes"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df98b58</div>
-                                        <div class="message">Made it work properly on linux, time to test on windows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a0fcae</div>
-                                        <div class="message">Gonna kill self</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3367,7 +3291,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2023, 14:18:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 2 Jul 2023, 14:20:07 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
