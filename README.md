@@ -104,19 +104,16 @@ Sunday                   32 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Stockholm
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        ████████████████████████░   97.94 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-discord_status_lyric_link2 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
