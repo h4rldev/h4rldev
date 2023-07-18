@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build smaller, faster, and more secure desktop applications with a web frontend.</div>
@@ -2648,7 +2648,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52d5703</div>
+                                        <div class="sha">#dcc771f</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2668,7 +2668,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c65491c</div>
+                                        <div class="sha">#479f8e2</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2688,7 +2688,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e0648c0</div>
+                                        <div class="sha">#e92c3af</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2708,7 +2708,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca2caa2</div>
+                                        <div class="sha">#fa9c322</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2728,7 +2728,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ebdf22c</div>
+                                        <div class="sha">#fdb4b96</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2757,7 +2757,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jul 2023, 05:19:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 18 Jul 2023, 05:30:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
