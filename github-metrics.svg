@@ -2380,7 +2380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/cargo</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Rust package manager</div>
@@ -2433,7 +2433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rust-clippy</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</div>
@@ -2539,7 +2539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iced-rs/iced</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform GUI library for Rust, inspired by Elm</div>
@@ -2771,7 +2771,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2023, 07:17:05 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 22 Jul 2023, 08:10:02 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
