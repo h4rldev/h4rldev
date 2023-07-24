@@ -2355,7 +2355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mpv-player/mpv</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎥 Command line video player</div>
@@ -2638,7 +2638,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7e1a186</div>
+                                        <div class="sha">#61d736c</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2658,7 +2658,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37f83ba</div>
+                                        <div class="sha">#a288241</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2678,7 +2678,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ea35780</div>
+                                        <div class="sha">#6fccc17</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2698,7 +2698,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fedd3f4</div>
+                                        <div class="sha">#f282ac1</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2718,7 +2718,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c264083</div>
+                                        <div class="sha">#b45cd81</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -2747,7 +2747,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2023, 17:29:58 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Jul 2023, 18:10:38 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
