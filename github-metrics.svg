@@ -2360,7 +2360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>meilisearch/meilisearch</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.</div>
@@ -3143,7 +3143,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.40m out of 45m repositories</span>
+                                    <span class="gh">ranked 2.41m out of 50m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3264,7 +3264,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2023, 23:09:59 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 26 Jul 2023, 00:07:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
