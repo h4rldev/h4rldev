@@ -2365,7 +2365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/rofi</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦂 Soothing pastel theme for Rofi</div>
@@ -3131,7 +3131,7 @@ Addition of another lyric api (apple music API) to provide more lyrics capabilit
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.91m out of 50m repositories</span>
+                                    <span class="gh">ranked 2.03m out of 50m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3293,7 +3293,7 @@ Addition of another lyric api (apple music API) to provide more lyrics capabilit
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2023, 14:14:51 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 26 Jul 2023, 15:11:28 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
