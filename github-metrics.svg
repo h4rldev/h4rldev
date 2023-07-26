@@ -2365,7 +2365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catppuccin/rofi</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦂 Soothing pastel theme for Rofi</div>
@@ -3107,7 +3107,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.03m out of 46m repositories</span>
+                                    <span class="gh">ranked 2.01m out of 47m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3269,7 +3269,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2023, 10:10:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 26 Jul 2023, 11:08:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
