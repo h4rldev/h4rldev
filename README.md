@@ -3,7 +3,7 @@ h4rldev/h4rldev is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h4>Status and Last.FM</h4>
-<a href="https://paste.gg/p/anonymous/542110b9ccda418689dd5030c04c2586/files/08ce1791991545649ab17ed728ff9d00/raw">
+<a href="https://discord.com/users/275689969601871882">
     <img src="https://discord.c99.nl/widget/theme-4/275689969601871882.png"
     alt="Discord: h4rl">
 </a>
