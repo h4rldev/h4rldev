@@ -156,7 +156,7 @@ Lua                      1 repo              █░░░░░░░░░░�
         >
     </a>
     <br>
-    <a href="https://octo-ring/register">
+    <a href="https://octo-ring.com/register">
            register
     </a>
 </h2>
