@@ -13,16 +13,12 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PROJECTS: "True"
-          SHOW_LOC_CHART: "False" 
-          SHOW_PROFILE_VIEWS: "False" 
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_UPDATED_DATE: "False"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_TOTAL_CODE_TIME: "False"
-          LOCALE: "en"
-          SHOW_SHORT_INFO: "False"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }},
+          SHOW_TITLE: true
+          BLOCKS: =>
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: true
+          COMMIT_MESSAGE: Updated waka-readme :)
+          AUTHOR_NAME: h4rl
