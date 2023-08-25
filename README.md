@@ -79,15 +79,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 24 August 2023
+From: 21 February 2023 - To: 25 August 2023
 
-Total Time: 71 hrs 21 mins
+Total Time: 72 hrs 33 mins
 
-Rust         43 hrs 26 mins  >>>>>>>>>>>>>>>==========   60.81 %
-Python       22 hrs 18 mins  >>>>>>>>=================   31.22 %
-TOML         3 hrs 44 mins   >========================   05.24 %
-YAML         35 mins         =========================   00.84 %
-Bash         32 mins         =========================   00.75 %
+Rust         43 hrs 28 mins  >>>>>>>>>>>>>>>==========   59.85 %
+Python       22 hrs 18 mins  >>>>>>>>=================   30.71 %
+TOML         4 hrs 8 mins    >========================   05.70 %
+Markdown     1 hr 4 mins     =========================   01.49 %
+YAML         35 mins         =========================   00.82 %
 ```
 
 <!--END_SECTION:waka-->
