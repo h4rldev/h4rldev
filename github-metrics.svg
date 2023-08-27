@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ruffle-rs/ruffle</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flash Player emulator written in Rust</div>
@@ -2891,7 +2891,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.74m out of 115m users</span>
+                                    <span class="gh">ranked 2.74m out of 118m users</span>
                                 </div>
                                 <div class="text">Published 19 public repositories</div>
                             </div>
@@ -3082,7 +3082,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.27m out of 115m users</span>
+                                    <span class="gh">ranked 1.27m out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -3153,7 +3153,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.89m out of 47m repositories</span>
+                                    <span class="gh">ranked 1.89m out of 57m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3315,7 +3315,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2023, 08:10:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 27 Aug 2023, 09:07:27 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
