@@ -3182,7 +3182,7 @@ I have honestly no clue how this will look on deployment, I know nothing of svel
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.90m out of 62m repositories</span>
+                                    <span class="gh">ranked 1.83m out of 49m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3308,7 +3308,7 @@ I have honestly no clue how this will look on deployment, I know nothing of svel
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2023, 18:09:06 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 3 Sept 2023, 19:06:58 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
