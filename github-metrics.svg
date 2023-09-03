@@ -2399,7 +2399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArmCord/ArmCord</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.</div>
@@ -3182,7 +3182,7 @@ I have honestly no clue how this will look on deployment, I know nothing of svel
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.90m out of 60m repositories</span>
+                                    <span class="gh">ranked 1.90m out of 59m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 9 stars</div>
                             </div>
@@ -3308,7 +3308,7 @@ I have honestly no clue how this will look on deployment, I know nothing of svel
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2023, 22:08:00 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 3 Sept 2023, 23:06:51 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
