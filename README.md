@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </a>
 <a href="https://go.dev/">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="go" />
+    <img src="https://skillicons.dev/icons?i=go" alt="go" />
 </a>
 <hr>
 <h4>Data and misc.</h4>
