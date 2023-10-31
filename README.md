@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://neovim.io">
     <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" />
 </a>
-<a href="https://discord.com">
+<a href="https://discord.com/users/275689969601871882">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
 <a href="https://www.linuxfoundation.org">
