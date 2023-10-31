@@ -2,10 +2,10 @@
 h4rldev/h4rldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4>Status and Last.FM</h4>
+<h4> Status and Last.FM </h4>
 <a href="https://discord.com/users/275689969601871882">
     <img src="https://discord.c99.nl/widget/theme-4/275689969601871882.png"
-    alt="Discord: h4rl">
+    alt="Discord: h4rl" />
 </a>
     <br>
 <a href="https://www.last.fm/user/h4rl3h">
@@ -13,54 +13,62 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <h4>Languages and Tools </h4>
-    <a href="https://www.rust-lang.org/">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust">
-    </a>
-    <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Markdown">
-        <img src="https://skillicons.dev/icons?i=md" alt="Markdown">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/WebAssembly">
-        <img src="https://skillicons.dev/icons?i=wasm" alt="Webassembly">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-        <img src="https://skillicons.dev/icons?i=bash" alt="bash">
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git" alt="git">
-    </a>
-    <a href="https://github.com/h4rldev/">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-    </a>
-    <a href="https://github.com/microsoft/vscode">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-    </a>
-    <a href="https://neovim.io/">
-        <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim">
-    </a>
-    <a href="https://discord.com">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-    </a>
-    <a href="https://www.linuxfoundation.org/">
-        <img src="https://skillicons.dev/icons?i=linux" alt="linux">
-    </a>
+<a href="https://www.rust-lang.org">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+</a>
+<a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Markdown">
+    <img src="https://skillicons.dev/icons?i=md" alt="Markdown" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/WebAssembly">
+    <img src="https://skillicons.dev/icons?i=wasm" alt="Webassembly" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" />
+</a>
+<a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" />
+</a>
+<a href="https://github.com/h4rldev">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://github.com/microsoft/vscode">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+</a>
+<a href="https://neovim.io">
+    <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" />
+</a>
+<a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
+<a href="https://www.linuxfoundation.org">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
+</a>
     
-<h4>Future Languages and Tools </h4>
-    <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
-    </a>
-    <a href="https://java.com">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java">
-    </a>
-
+<h4> Future Languages and Tools </h4>
+<a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
+</a>
+<a href="https://java.com">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+</a>
+<a href="https://cplusplus.com">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+</a>
+<a href="https://go.dev/">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="go" />
+</a>
 <hr>
 <h4>Data and misc.</h4>
 <details>
