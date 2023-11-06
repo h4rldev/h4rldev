@@ -72,6 +72,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://go.dev/">
     <img src="https://skillicons.dev/icons?i=go" alt="go" />
 </a>
+<a href="https://ziglang.org/">
+    <img src="https://skillicons.dev/icons?i=zig" alt="zig" />
+</a>
 <hr>
 <h4>Data and misc.</h4>
 <details>
