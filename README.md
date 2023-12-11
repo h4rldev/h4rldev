@@ -93,14 +93,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 09 December 2023
+From: 21 February 2023 - To: 10 December 2023
 
-Total Time: 196 hrs 9 mins
+Total Time: 196 hrs 13 mins
 
-Rust              119 hrs 44 mins >>>>>>>>>>>>>>===========   57.56 %
-Python            22 hrs 19 mins  >>>======================   10.73 %
-CSS               14 hrs 22 mins  >>=======================   06.91 %
-Other             11 hrs 53 mins  >========================   05.72 %
+Rust              119 hrs 44 mins >>>>>>>>>>>>>>===========   56.65 %
+Python            22 hrs 19 mins  >>>======================   10.56 %
+Other             15 hrs 9 mins   >>=======================   07.17 %
 ```
 
 <!--END_SECTION:waka-->
