@@ -122,8 +122,7 @@ Other             19 hrs 26 mins  >>=======================   08.33 %
         <
     </a>
     <a href="https://octo-ring.com/">
-        <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png"
-        height="150px">
+        <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png" height="150px" />
     </a>
     <a href="https://octo-ring.com/p/h4rldev/next">
         >
