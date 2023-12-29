@@ -136,5 +136,7 @@ Other             19 hrs 26 mins  >>=======================   08.33 %
 <p align="center">
   <a href="https://github.com/h4rldev">
     <img src="https://komarev.com/ghpvc/?username=h4rldev&color=blueviolet&style=flat-square" />
+  <a href="https://wakatime.com/@a96ce7fe-c8df-4036-8791-65e6c7bbd3b1">
+    <img src="https://wakatime.com/badge/user/a96ce7fe-c8df-4036-8791-65e6c7bbd3b1.svg?style=flat-square" alt="Total time coded since Feb 22 2023" />
   </a>
 </p>
