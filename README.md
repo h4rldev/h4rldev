@@ -28,6 +28,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
 </a>
+<a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/WebAssembly">
     <img src="https://skillicons.dev/icons?i=wasm" alt="Webassembly" />
 </a>
@@ -57,9 +60,6 @@ You can click the Preview link to take a look at your changes.
 </a>
     
 <h4> Future Languages and Tools </h4>
-<a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
-</a>
 <a href="https://java.com">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </a>
