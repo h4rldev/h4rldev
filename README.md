@@ -55,9 +55,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linuxfoundation.org">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
 </a>
-<a href="https://www.linkedin.com/in/oscar-sj%C3%B6din-jansson-528894295/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-</a>
     
 <h4> Future Languages and Tools </h4>
 <a href="https://java.com">
