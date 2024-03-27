@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2690" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2724" class="">
     <defs>
         <style/>
     </defs>
@@ -32,16 +32,16 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            801 Commits
+                            805 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    25.4k added, 10.1k removed
+                                    32.5k added, 12.8k removed
                                 </div>
                             </section>
                             <section>
@@ -2407,7 +2407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ByteAtATime/scaffold-godot-rust</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2461,7 +2461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/mdBook</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create book from markdown files. Like Gitbook but implemented in Rust</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ventoy/Ventoy</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new bootable USB solution.</div>
@@ -2699,6 +2699,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4476a77</div>
+                                        <div class="message">feat(repo): <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Add a proper readme (WIP)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">goop-studios/slimes-lament</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#64a313b</div>
                                         <div class="message">chore(file structure): <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Move stuff to their right places, also wrote a little readme for the sprites folder</div>
                                     </div>
@@ -2747,19 +2767,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">rust-lang/mdBook</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">ventoy/Ventoy</span>
                                     </div>
                                 </div>
                             </section>
@@ -3180,7 +3187,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.59m out of 104m repositories</span>
+                                    <span class="gh">ranked 1.59m out of 89.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 13 stars</div>
                             </div>
@@ -3300,7 +3307,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.19m out of 104m repositories</span>
+                                    <span class="gh">ranked 5.19m out of 89.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3382,7 +3389,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Mar 2024, 11:09:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Mar 2024, 12:07:33 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
