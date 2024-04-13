@@ -55,22 +55,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linuxfoundation.org">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
 </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+</a>
     
 <h4> Future Languages and Tools </h4>
 <a href="https://java.com">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-</a>
-<a href="https://cplusplus.com">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-</a>
-<a href="https://go.dev/">
-    <img src="https://skillicons.dev/icons?i=go" alt="go" />
-</a>
-<a href="https://ziglang.org/">
-    <img src="https://skillicons.dev/icons?i=zig" alt="zig" />
 </a>
 <hr>
 <h4>Data and misc.</h4>
