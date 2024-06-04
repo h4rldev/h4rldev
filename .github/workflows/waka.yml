@@ -17,6 +17,7 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: =>
           TIME_RANGE: all_time
+          LANG_COUNT: 42069
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
