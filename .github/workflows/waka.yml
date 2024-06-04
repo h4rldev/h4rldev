@@ -22,4 +22,4 @@ jobs:
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
           COMMIT_MESSAGE: Updated waka-readme :)
-          AUTHOR_NAME: h4rl
+          AUTHOR_NAME: h4rldev
