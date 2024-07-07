@@ -2,6 +2,7 @@
 h4rldev/h4rldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h4> Status and Last.FM </h4>
 <a href="https://discord.com/users/275689969601871882">
     <img src="https://discord.c99.nl/widget/theme-4/275689969601871882.png"
@@ -58,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </a>
-    
+
 <h4> Future Languages and Tools </h4>
 <a href="https://java.com">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
@@ -165,7 +166,7 @@ Tcsh              0 secs          =========================   00.00 %
         <
     </a>
     <a href="https://octo-ring.com/">
-        <img align="center" src="https://git.h4rl.xn--q9jyb4c/h4rl/.profile/raw/branch/main/resources/octopus.svg" height="150px" />
+        <img align="center" src=".resources/octopus.svg" height="150px" />
     </a>
     <a href="https://octo-ring.com/p/h4rldev/next">
         >
