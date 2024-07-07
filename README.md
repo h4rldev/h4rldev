@@ -165,7 +165,7 @@ Tcsh              0 secs          =========================   00.00 %
         <
     </a>
     <a href="https://octo-ring.com/">
-        <img align="center" src="https://media.discordapp.net/attachments/856404208445292545/995328704580431962/octa.png" height="150px" />
+        <img align="center" src="https://git.h4rl.xn--q9jyb4c/h4rl/.profile/raw/branch/main/resources/octopus.svg" height="150px" />
     </a>
     <a href="https://octo-ring.com/p/h4rldev/next">
         >
