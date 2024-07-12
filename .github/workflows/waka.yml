@@ -11,7 +11,12 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Harden Runner
+        uses: step-security/harden-runner@17d0e2bd7d51742c71671bd19fa12bdc9d40a3d6 # v2.8.1
+        with:
+          egress-policy: audit
+
+      - uses: athul/waka-readme@e96e0f6d9763fa44245fe1f6736c1d2d4e5d4e3f # master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }},
           SHOW_TITLE: true
