@@ -59,21 +59,17 @@ You can click the Preview link to take a look at your changes.
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </a>
-
-<h4> Future Languages and Tools </h4>
 <a href="https://java.com">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </a>
+
 <hr>
+
 <h4>Data and misc.</h4>
 <details>
     <summary>Discord Servers</summary>
-    <a href="https://discord.gg/bMWgD85MJ6">
-        ani / ani-gui
-    </a>
-    </br>
     <a href="https://discord.gg/aPdx2aFN5A">
-        foobar
+        My discord server!
     </a>
 </details>
 <details>
