@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 24 August 2024
+From: 21 February 2023 - To: 25 August 2024
 
 Total Time: 439 hrs 37 mins
 
