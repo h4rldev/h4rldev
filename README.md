@@ -78,23 +78,23 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 26 August 2024
+From: 21 February 2023 - To: 27 August 2024
 
-Total Time: 441 hrs 18 mins
+Total Time: 441 hrs 43 mins
 
-Rust              179 hrs 53 mins >>>>>>>>>>===============   38.71 %
+Rust              179 hrs 53 mins >>>>>>>>>>===============   38.67 %
 C                 40 hrs 51 mins  >>=======================   08.79 %
 Other             23 hrs 25 mins  >========================   05.04 %
 HTML              23 hrs 18 mins  >========================   05.01 %
 Python            22 hrs 22 mins  >========================   04.81 %
-Nix               19 hrs 53 mins  >========================   04.28 %
+Nix               20 hrs 17 mins  >========================   04.36 %
 Svelte            18 hrs 56 mins  >========================   04.07 %
 Bash              18 hrs 7 mins   >========================   03.90 %
 CSS               17 hrs 14 mins  >========================   03.71 %
 Astro             16 hrs 26 mins  >========================   03.54 %
 YAML              11 hrs 8 mins   >========================   02.40 %
 TOML              10 hrs 40 mins  >========================   02.30 %
-SCSS              9 hrs 2 mins    =========================   01.95 %
+SCSS              9 hrs 2 mins    =========================   01.94 %
 Markdown          8 hrs 50 mins   =========================   01.90 %
 Java              6 hrs 53 mins   =========================   01.48 %
 Makefile          6 hrs 47 mins   =========================   01.46 %
@@ -121,7 +121,7 @@ Java Properties   15 mins         =========================   00.06 %
 systemd           14 mins         =========================   00.05 %
 gitconfig         12 mins         =========================   00.04 %
 kdl               10 mins         =========================   00.04 %
-TypeScript        9 mins          =========================   00.04 %
+TypeScript        9 mins          =========================   00.03 %
 bat               8 mins          =========================   00.03 %
 TSConfig          8 mins          =========================   00.03 %
 jsonc             6 mins          =========================   00.02 %
