@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://lastfm-recently-played.vercel.app/api?user=h4rl3h&count=1" alt="LastFM" />
 </a>
 
-<h4>Languages and Tools </h4>
+<h4>Languages </h4>
 <a href="https://www.rust-lang.org">
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
 </a>
@@ -38,6 +38,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" />
 </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+</a>
+<a href="https://java.com">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+</a>
+
+<h4> Tools </h4>
 <a href="https://git-scm.com">
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
 </a>
@@ -56,13 +64,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linuxfoundation.org">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-</a>
-<a href="https://java.com">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-</a>
-
 <hr>
 
 <h4>Data and misc.</h4>
