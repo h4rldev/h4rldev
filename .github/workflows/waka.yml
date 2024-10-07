@@ -16,7 +16,7 @@ jobs:
         with:
           egress-policy: audit
 
-      - uses: athul/waka-readme@45a6f95c3101f1df3f74e97acba71100c6f6c8f3 # master
+      - uses: athul/waka-readme@711f84ec8a1c444468c062a3c9d21698bfbd6c7b # master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }},
           SHOW_TITLE: true
