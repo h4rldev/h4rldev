@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1045 Commits
+                            1046 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    816k added, 802k removed
+                                    818k added, 803k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.06714507108686" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="246.06714507108686" y="0" width="84.92844147968466" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="330.9955865507715" y="0" width="56.46321002627855" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="387.45879657705007" y="0" width="40.61845562967455" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="428.0772522067246" y="0" width="10.649956202412238" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.7272084091369" y="0" width="7.397008287851222" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="446.1242166969881" y="0" width="7.139747995418099" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="453.2639646924062" y="0" width="6.736035307593828" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="245.23103628891454" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="245.23103628891454" y="0" width="84.6398640844503" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="329.87090037336486" y="0" width="56.271354320556554" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="386.1422546939214" y="0" width="42.043467458164336" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="428.18572215208576" y="0" width="10.613768836122377" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.7994909882081" y="0" width="7.371874076660668" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="446.1713650648687" y="0" width="7.1154879260791315" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.28685299094786" y="0" width="6.713147009052083" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2418,7 +2418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LadybirdBrowser/ladybird</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Truly independent web browser</div>
@@ -3259,7 +3259,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.49m out of 223m repositories</span>
+                                    <span class="gh">ranked 1.49m out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -3305,7 +3305,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.63m out of 223m repositories</span>
+                                    <span class="gh">ranked 3.63m out of 202m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3422,7 +3422,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2024, 13:19:50 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Nov 2024, 14:17:55 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
