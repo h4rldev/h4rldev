@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 01 January 2025
+From: 21 February 2023 - To: 02 January 2025
 
 Total Time: 648 hrs 5 mins
 
@@ -149,6 +149,7 @@ Git               0 secs          =========================   00.00 %
 TSQL              0 secs          =========================   00.00 %
 Diff              0 secs          =========================   00.00 %
 Image (svg)       0 secs          =========================   00.00 %
+Desktop file      0 secs          =========================   00.00 %
 C++               0 secs          =========================   00.00 %
 image_nvim        0 secs          =========================   00.00 %
 Tcsh              0 secs          =========================   00.00 %
