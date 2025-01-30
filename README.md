@@ -79,18 +79,18 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 28 January 2025
+From: 21 February 2023 - To: 29 January 2025
 
-Total Time: 673 hrs 13 mins
+Total Time: 673 hrs 46 mins
 
-Rust              192 hrs 1 min   >>>>>>>==================   27.52 %
-C                 142 hrs 22 mins >>>>>====================   20.41 %
-Svelte            59 hrs 47 mins  >>=======================   08.57 %
-Nix               41 hrs 28 mins  >========================   05.94 %
-Bash              34 hrs 39 mins  >========================   04.97 %
+Rust              192 hrs 1 min   >>>>>>>==================   27.50 %
+C                 142 hrs 22 mins >>>>>====================   20.39 %
+Svelte            59 hrs 47 mins  >>=======================   08.56 %
+Nix               41 hrs 45 mins  >========================   05.98 %
+Bash              34 hrs 39 mins  >========================   04.96 %
 HTML              27 hrs          >========================   03.87 %
 Other             24 hrs 29 mins  >========================   03.51 %
-Python            22 hrs 22 mins  >========================   03.21 %
+Python            22 hrs 22 mins  >========================   03.20 %
 CSS               19 hrs 3 mins   >========================   02.73 %
 Markdown          16 hrs 31 mins  >========================   02.37 %
 Astro             16 hrs 26 mins  >========================   02.36 %
@@ -98,7 +98,7 @@ YAML              12 hrs 18 mins  =========================   01.76 %
 TOML              11 hrs 7 mins   =========================   01.59 %
 SCSS              9 hrs 36 mins   =========================   01.38 %
 Makefile          8 hrs 50 mins   =========================   01.27 %
-JSON              8 hrs 32 mins   =========================   01.22 %
+JSON              8 hrs 48 mins   =========================   01.26 %
 JavaScript        7 hrs 41 mins   =========================   01.10 %
 Java              6 hrs 53 mins   =========================   00.99 %
 Odin              6 hrs 6 mins    =========================   00.88 %
