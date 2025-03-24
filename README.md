@@ -75,18 +75,18 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 22 March 2025
+From: 21 February 2023 - To: 23 March 2025
 
-Total Time: 705 hrs 20 mins
+Total Time: 705 hrs 25 mins
 
-Rust              192 hrs 1 min   >>>>>>>==================   26.31 %
-C                 149 hrs 45 mins >>>>>====================   20.52 %
+Rust              192 hrs 1 min   >>>>>>>==================   26.30 %
+C                 149 hrs 45 mins >>>>>====================   20.51 %
 Svelte            74 hrs 14 mins  >>>======================   10.17 %
-Nix               43 hrs 20 mins  >========================   05.94 %
+Nix               43 hrs 25 mins  >========================   05.95 %
 Bash              35 hrs 27 mins  >========================   04.86 %
 HTML              27 hrs 5 mins   >========================   03.71 %
 Other             24 hrs 34 mins  >========================   03.37 %
-Python            22 hrs 22 mins  >========================   03.07 %
+Python            22 hrs 22 mins  >========================   03.06 %
 CSS               19 hrs 3 mins   >========================   02.61 %
 Markdown          18 hrs 53 mins  >========================   02.59 %
 Astro             16 hrs 26 mins  >========================   02.25 %
