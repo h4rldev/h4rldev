@@ -75,24 +75,24 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 20 April 2025
+From: 21 February 2023 - To: 21 April 2025
 
-Total Time: 730 hrs 44 mins
+Total Time: 731 hrs 26 mins
 
-Rust                 195 hrs 9 mins  >>>>>>===================   25.81 %
-C                    160 hrs 38 mins >>>>>====================   21.25 %
-Svelte               75 hrs 13 mins  >>=======================   09.95 %
-Nix                  46 hrs 32 mins  >>=======================   06.16 %
+Rust                 195 hrs 49 mins >>>>>>===================   25.88 %
+C                    160 hrs 38 mins >>>>>====================   21.23 %
+Svelte               75 hrs 13 mins  >>=======================   09.94 %
+Nix                  46 hrs 32 mins  >>=======================   06.15 %
 Bash                 37 hrs 30 mins  >========================   04.96 %
-HTML                 27 hrs 7 mins   >========================   03.59 %
+HTML                 27 hrs 7 mins   >========================   03.58 %
 Other                25 hrs 17 mins  >========================   03.34 %
 Python               22 hrs 22 mins  >========================   02.96 %
 Markdown             20 hrs 43 mins  >========================   02.74 %
 CSS                  19 hrs 3 mins   >========================   02.52 %
-Astro                16 hrs 26 mins  >========================   02.18 %
-YAML                 12 hrs 44 mins  =========================   01.69 %
-TOML                 11 hrs 41 mins  =========================   01.55 %
-JSON                 10 hrs 37 mins  =========================   01.41 %
+Astro                16 hrs 26 mins  >========================   02.17 %
+YAML                 12 hrs 44 mins  =========================   01.68 %
+TOML                 11 hrs 43 mins  =========================   01.55 %
+JSON                 10 hrs 37 mins  =========================   01.40 %
 SCSS                 9 hrs 36 mins   =========================   01.27 %
 Makefile             9 hrs 27 mins   =========================   01.25 %
 JavaScript           7 hrs 46 mins   =========================   01.03 %
