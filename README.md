@@ -10,54 +10,57 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <h4>Languages </h4>
-<a href="https://www.rust-lang.org">
+<a href="https://www.rust-lang.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
 </a>
-<a href="https://www.python.org">
+<a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Markdown">
+<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">
     <img src="https://skillicons.dev/icons?i=md" alt="Markdown" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
 </a>
-<a href="https://www.typescriptlang.org">
+<a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/WebAssembly">
+<a href="https://developer.mozilla.org/en-US/docs/WebAssembly" target="_blank">
     <img src="https://skillicons.dev/icons?i=wasm" alt="Webassembly" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" />
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </a>
-<a href="https://java.com">
+<a href="https://java.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+</a>
+<a href="https://kotlinlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
 </a>
 
 <h4> Tools </h4>
-<a href="https://git-scm.com">
+<a href="https://git-scm.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
 </a>
-<a href="https://github.com/h4rldev">
+<a href="https://github.com/h4rldev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-<a href="https://github.com/microsoft/vscode">
+<a href="https://github.com/microsoft/vscode" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
 </a>
-<a href="https://neovim.io">
+<a href="https://neovim.io" target="_blank">
     <img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" />
 </a>
-<a href="https://discord.com/users/275689969601871882">
+<a href="https://discord.com/users/275689969601871882" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
-<a href="https://www.linuxfoundation.org">
+<a href="https://www.linuxfoundation.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" />
 </a>
 <hr>
@@ -65,9 +68,14 @@ You can click the Preview link to take a look at your changes.
 <h4>Data and misc.</h4>
 <details>
     <summary>Discord Servers</summary>
-    <a href="https://discord.gg/aPdx2aFN5A">
-        My discord server!
-    </a>
+    <ol>
+        <li>
+            The Nagai Project Discord Server, the place to discuss the Nagai project and its related projects, Nagai is a Linux distribution that aims to be a lightweight, fast, and secure desktop environment, with it's own desktop environment.
+            <a href="https://discord.gg/je4RAnC9MF" target="_blank">
+                Join the Nagai Project Discord Server here!
+            </a>
+        </li>
+    </ol>
 </details>
 <details>
     <summary>Wakatime</summary>
