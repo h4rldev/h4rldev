@@ -83,16 +83,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 27 May 2025
+From: 21 February 2023 - To: 28 May 2025
 
-Total Time: 773 hrs 20 mins
+Total Time: 773 hrs 24 mins
 
 Rust                 200 hrs 20 mins >>>>>>===================   25.08 %
-C                    172 hrs 31 mins >>>>>====================   21.60 %
+C                    172 hrs 35 mins >>>>>====================   21.60 %
 Svelte               75 hrs 13 mins  >>=======================   09.42 %
 Nix                  54 hrs          >>=======================   06.76 %
 Bash                 41 hrs 49 mins  >========================   05.23 %
-HTML                 27 hrs 7 mins   >========================   03.40 %
+HTML                 27 hrs 7 mins   >========================   03.39 %
 Other                25 hrs 33 mins  >========================   03.20 %
 Python               22 hrs 22 mins  >========================   02.80 %
 Markdown             22 hrs 6 mins   >========================   02.77 %
