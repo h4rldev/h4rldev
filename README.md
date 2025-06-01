@@ -83,19 +83,19 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 31 May 2025
+From: 21 February 2023 - To: 01 June 2025
 
-Total Time: 774 hrs 54 mins
+Total Time: 775 hrs 49 mins
 
-Rust                 201 hrs 7 mins  >>>>>>===================   25.13 %
-C                    172 hrs 35 mins >>>>>====================   21.56 %
-Svelte               75 hrs 13 mins  >>=======================   09.40 %
-Nix                  54 hrs 11 mins  >>=======================   06.77 %
+Rust                 201 hrs 7 mins  >>>>>>===================   25.10 %
+C                    172 hrs 35 mins >>>>>====================   21.54 %
+Svelte               75 hrs 13 mins  >>=======================   09.39 %
+Nix                  54 hrs 34 mins  >>=======================   06.81 %
 Bash                 41 hrs 49 mins  >========================   05.22 %
-HTML                 27 hrs 10 mins  >========================   03.40 %
+HTML                 27 hrs 10 mins  >========================   03.39 %
 Other                25 hrs 33 mins  >========================   03.19 %
-Python               22 hrs 22 mins  >========================   02.80 %
-Markdown             22 hrs 6 mins   >========================   02.76 %
+Markdown             22 hrs 38 mins  >========================   02.82 %
+Python               22 hrs 22 mins  >========================   02.79 %
 CSS                  19 hrs 19 mins  >========================   02.41 %
 Astro                16 hrs 26 mins  >========================   02.05 %
 YAML                 12 hrs 57 mins  =========================   01.62 %
@@ -115,8 +115,8 @@ INI                  2 hrs 52 mins   =========================   00.36 %
 sshconfig            2 hrs 8 mins    =========================   00.27 %
 Text                 2 hrs 5 mins    =========================   00.26 %
 gitignore            2 hrs 3 mins    =========================   00.26 %
-TypeScript           1 hr 48 mins    =========================   00.23 %
-Assembly             1 hr 48 mins    =========================   00.23 %
+TypeScript           1 hr 48 mins    =========================   00.22 %
+Assembly             1 hr 48 mins    =========================   00.22 %
 Git Config           56 mins         =========================   00.12 %
 CMake                47 mins         =========================   00.10 %
 Zig                  44 mins         =========================   00.09 %
