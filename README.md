@@ -83,14 +83,14 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 02 June 2025
+From: 21 February 2023 - To: 03 June 2025
 
-Total Time: 775 hrs 49 mins
+Total Time: 776 hrs 17 mins
 
-Rust                 201 hrs 7 mins  >>>>>>===================   25.10 %
-C                    172 hrs 35 mins >>>>>====================   21.54 %
-Svelte               75 hrs 13 mins  >>=======================   09.39 %
-Nix                  54 hrs 34 mins  >>=======================   06.81 %
+Rust                 201 hrs 7 mins  >>>>>>===================   25.08 %
+C                    172 hrs 35 mins >>>>>====================   21.52 %
+Svelte               75 hrs 13 mins  >>=======================   09.38 %
+Nix                  54 hrs 55 mins  >>=======================   06.85 %
 Bash                 41 hrs 49 mins  >========================   05.22 %
 HTML                 27 hrs 10 mins  >========================   03.39 %
 Other                25 hrs 33 mins  >========================   03.19 %
@@ -119,9 +119,9 @@ TypeScript           1 hr 48 mins    =========================   00.22 %
 Assembly             1 hr 48 mins    =========================   00.22 %
 Git Config           56 mins         =========================   00.12 %
 CMake                47 mins         =========================   00.10 %
+gitrebase            45 mins         =========================   00.09 %
 Zig                  44 mins         =========================   00.09 %
 Kotlin               39 mins         =========================   00.08 %
-gitrebase            37 mins         =========================   00.08 %
 gitconfig            31 mins         =========================   00.07 %
 GDScript3            30 mins         =========================   00.06 %
 SQL                  29 mins         =========================   00.06 %
