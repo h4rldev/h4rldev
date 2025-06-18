@@ -83,15 +83,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 17 June 2025
+From: 21 February 2023 - To: 18 June 2025
 
-Total Time: 801 hrs 56 mins
+Total Time: 802 hrs 28 mins
 
-Rust                 202 hrs 42 mins >>>>>>===================   24.45 %
-C                    181 hrs 18 mins >>>>>====================   21.87 %
-Svelte               75 hrs 13 mins  >>=======================   09.08 %
+Rust                 202 hrs 49 mins >>>>>>===================   24.45 %
+C                    181 hrs 18 mins >>>>>====================   21.86 %
+Svelte               75 hrs 13 mins  >>=======================   09.07 %
 Nix                  59 hrs 12 mins  >>=======================   07.14 %
-Bash                 45 hrs 13 mins  >========================   05.46 %
+Bash                 45 hrs 13 mins  >========================   05.45 %
 HTML                 27 hrs 11 mins  >========================   03.28 %
 Other                26 hrs 58 mins  >========================   03.25 %
 Markdown             23 hrs 6 mins   >========================   02.79 %
@@ -99,8 +99,8 @@ Python               22 hrs 22 mins  >========================   02.70 %
 CSS                  20 hrs 2 mins   >========================   02.42 %
 Astro                16 hrs 26 mins  =========================   01.98 %
 YAML                 12 hrs 57 mins  =========================   01.56 %
-TOML                 12 hrs 26 mins  =========================   01.50 %
-JSON                 11 hrs 35 mins  =========================   01.40 %
+TOML                 12 hrs 43 mins  =========================   01.53 %
+JSON                 11 hrs 42 mins  =========================   01.41 %
 Makefile             9 hrs 37 mins   =========================   01.16 %
 SCSS                 9 hrs 36 mins   =========================   01.16 %
 JavaScript           7 hrs 46 mins   =========================   00.94 %
