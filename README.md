@@ -83,18 +83,18 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 29 June 2025
+From: 21 February 2023 - To: 30 June 2025
 
-Total Time: 814 hrs 22 mins
+Total Time: 814 hrs 49 mins
 
-Rust                 205 hrs 42 mins >>>>>>===================   24.45 %
-C                    182 hrs 52 mins >>>>>====================   21.74 %
+Rust                 205 hrs 42 mins >>>>>>===================   24.44 %
+C                    182 hrs 52 mins >>>>>====================   21.72 %
 Svelte               77 hrs 11 mins  >>=======================   09.17 %
-Nix                  60 hrs 52 mins  >>=======================   07.24 %
+Nix                  60 hrs 58 mins  >>=======================   07.24 %
 Bash                 45 hrs 18 mins  >========================   05.38 %
 HTML                 27 hrs 11 mins  >========================   03.23 %
 Other                26 hrs 59 mins  >========================   03.21 %
-Markdown             23 hrs 22 mins  >========================   02.78 %
+Markdown             23 hrs 44 mins  >========================   02.82 %
 Python               22 hrs 22 mins  >========================   02.66 %
 CSS                  20 hrs 2 mins   >========================   02.38 %
 Astro                16 hrs 26 mins  =========================   01.95 %
@@ -119,7 +119,7 @@ sshconfig            2 hrs 8 mins    =========================   00.26 %
 Assembly             1 hr 48 mins    =========================   00.21 %
 PowerShell           1 hr 33 mins    =========================   00.19 %
 QML                  1 hr 13 mins    =========================   00.15 %
-gitrebase            1 hr 8 mins     =========================   00.14 %
+gitrebase            1 hr 8 mins     =========================   00.13 %
 Git Config           57 mins         =========================   00.11 %
 CMake                47 mins         =========================   00.09 %
 Zig                  44 mins         =========================   00.09 %
