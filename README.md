@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 20 July 2025
+From: 21 February 2023 - To: 21 July 2025
 
 Total Time: 824 hrs 49 mins
 
@@ -141,7 +141,7 @@ systemd              14 mins         =========================   00.03 %
 Batchfile            12 mins         =========================   00.02 %
 TSConfig             11 mins         =========================   00.02 %
 kdl                  10 mins         =========================   00.02 %
-Desktop file         9 mins          =========================   00.02 %
+Desktop file         10 mins         =========================   00.02 %
 bat                  8 mins          =========================   00.02 %
 Vue.js               7 mins          =========================   00.01 %
 C++                  5 mins          =========================   00.01 %
