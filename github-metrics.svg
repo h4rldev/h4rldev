@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1231 Commits
+                            1232 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    66.9k added, 57.6k removed
+                                    94.5k added, 67.5k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.3332088505079" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="220.3332088505079" y="0" width="92.94147023792425" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="313.27467908843215" y="0" width="78.09923564598853" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="391.3739147344207" y="0" width="33.370250961795556" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="424.74416569621627" y="0" width="18.030954238198255" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="442.77511993441453" y="0" width="7.1631837256015505" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.93830366001606" y="0" width="5.3787408378062445" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="455.3170444978223" y="0" width="4.6829555021777125" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.66653673410167" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="216.66653673410167" y="0" width="99.51485345772211" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="316.18139019182377" y="0" width="76.54712870686781" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="392.72851889869156" y="0" width="32.702597351974326" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="425.4311162506659" y="0" width="17.67020083243463" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="443.1013170831005" y="0" width="7.019866689188311" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.1211837722888" y="0" width="5.289554721099749" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="455.4107384933886" y="0" width="4.589261506611402" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2412,7 +2412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sealldeveloper/sealldev-astro</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">new site finally</div>
@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tsoding/posix6502</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple 6502 emulator that integrates with POSIX environment</div>
@@ -2486,7 +2486,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        15
+                                        16
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2518,7 +2518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nekename/OpenDeck</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linux software for your Elgato Stream Deck</div>
@@ -2571,7 +2571,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cachix/devenv</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</div>
@@ -2792,7 +2792,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2025, 21:13:26 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Jul 2025, 22:13:45 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
