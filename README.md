@@ -83,28 +83,28 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 04 August 2025
+From: 21 February 2023 - To: 05 August 2025
 
-Total Time: 850 hrs 4 mins
+Total Time: 850 hrs 23 mins
 
-Rust                 216 hrs 2 mins  >>>>>>===================   24.63 %
+Rust                 216 hrs 2 mins  >>>>>>===================   24.62 %
 C                    189 hrs 38 mins >>>>>====================   21.62 %
 Svelte               77 hrs 11 mins  >>=======================   08.80 %
-Nix                  66 hrs 45 mins  >>=======================   07.61 %
-Bash                 52 hrs 8 mins   >========================   05.95 %
+Nix                  66 hrs 48 mins  >>=======================   07.61 %
+Bash                 52 hrs 8 mins   >========================   05.94 %
 HTML                 28 hrs 20 mins  >========================   03.23 %
 Other                26 hrs 59 mins  >========================   03.08 %
-Markdown             24 hrs 50 mins  >========================   02.83 %
+Markdown             25 hrs 3 mins   >========================   02.86 %
 Python               22 hrs 22 mins  >========================   02.55 %
 CSS                  20 hrs 47 mins  >========================   02.37 %
-Astro                16 hrs 26 mins  =========================   01.88 %
+Astro                16 hrs 26 mins  =========================   01.87 %
 TOML                 13 hrs 42 mins  =========================   01.56 %
 YAML                 12 hrs 57 mins  =========================   01.48 %
 JSON                 12 hrs 16 mins  =========================   01.40 %
-Makefile             9 hrs 52 mins   =========================   01.13 %
+Makefile             9 hrs 55 mins   =========================   01.13 %
 SCSS                 9 hrs 36 mins   =========================   01.10 %
 JavaScript           7 hrs 49 mins   =========================   00.89 %
-Java                 6 hrs 53 mins   =========================   00.79 %
+Java                 6 hrs 53 mins   =========================   00.78 %
 TypeScript           6 hrs 49 mins   =========================   00.78 %
 Odin                 6 hrs 6 mins    =========================   00.70 %
 zserio               5 hrs 12 mins   =========================   00.59 %
@@ -115,7 +115,7 @@ sh                   3 hrs 38 mins   =========================   00.42 %
 INI                  2 hrs 52 mins   =========================   00.33 %
 gitignore            2 hrs 20 mins   =========================   00.27 %
 Text                 2 hrs 15 mins   =========================   00.26 %
-sshconfig            2 hrs 8 mins    =========================   00.25 %
+sshconfig            2 hrs 8 mins    =========================   00.24 %
 Assembly             1 hr 48 mins    =========================   00.21 %
 PowerShell           1 hr 33 mins    =========================   00.18 %
 QML                  1 hr 13 mins    =========================   00.14 %
