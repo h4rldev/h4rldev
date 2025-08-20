@@ -83,16 +83,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 19 August 2025
+From: 21 February 2023 - To: 20 August 2025
 
-Total Time: 862 hrs 50 mins
+Total Time: 863 hrs 12 mins
 
-Rust                 217 hrs 12 mins >>>>>>===================   24.41 %
+Rust                 217 hrs 16 mins >>>>>>===================   24.41 %
 C                    189 hrs 50 mins >>>>>====================   21.33 %
-Svelte               77 hrs 11 mins  >>=======================   08.67 %
-Nix                  69 hrs 54 mins  >>=======================   07.86 %
+Svelte               77 hrs 21 mins  >>=======================   08.69 %
+Nix                  69 hrs 54 mins  >>=======================   07.85 %
 Bash                 53 hrs 22 mins  >>=======================   06.00 %
-HTML                 28 hrs 20 mins  >========================   03.19 %
+HTML                 28 hrs 20 mins  >========================   03.18 %
 Other                26 hrs 59 mins  >========================   03.03 %
 Markdown             25 hrs 49 mins  >========================   02.90 %
 Python               22 hrs 22 mins  >========================   02.51 %
@@ -100,11 +100,11 @@ CSS                  20 hrs 53 mins  >========================   02.35 %
 Astro                16 hrs 26 mins  =========================   01.85 %
 TOML                 13 hrs 44 mins  =========================   01.54 %
 YAML                 13 hrs 10 mins  =========================   01.48 %
-JSON                 12 hrs 18 mins  =========================   01.38 %
-Makefile             9 hrs 55 mins   =========================   01.12 %
+JSON                 12 hrs 25 mins  =========================   01.40 %
+Makefile             9 hrs 55 mins   =========================   01.11 %
 SCSS                 9 hrs 36 mins   =========================   01.08 %
 JavaScript           7 hrs 57 mins   =========================   00.89 %
-TypeScript           7 hrs 32 mins   =========================   00.85 %
+TypeScript           7 hrs 33 mins   =========================   00.85 %
 Java                 6 hrs 53 mins   =========================   00.77 %
 Odin                 6 hrs 6 mins    =========================   00.69 %
 zserio               5 hrs 12 mins   =========================   00.58 %
