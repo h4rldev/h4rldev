@@ -2402,7 +2402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pipeweaver/pipeweaver</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PipeWeaver is a tool to communicate with pipewire to manage streaming audio</div>
@@ -2455,7 +2455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuskraft/ratti</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌟 A highly-configurable, accessible star rating component for React applications with TypeScript support.</div>
@@ -2790,7 +2790,7 @@ Make it a PR and LGTM</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Sept 2025, 09:12:36 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Sept 2025, 10:17:36 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
