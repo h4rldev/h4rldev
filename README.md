@@ -83,23 +83,23 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 22 September 2025
+From: 21 February 2023 - To: 23 September 2025
 
-Total Time: 897 hrs 36 mins
+Total Time: 899 hrs 11 mins
 
-Rust                 246 hrs 43 mins >>>>>>>==================   26.68 %
-C                    189 hrs 50 mins >>>>>====================   20.53 %
-Svelte               77 hrs 22 mins  >>=======================   08.37 %
-Nix                  72 hrs 11 mins  >>=======================   07.81 %
-Bash                 53 hrs 30 mins  >========================   05.79 %
-HTML                 28 hrs 34 mins  >========================   03.09 %
-Other                27 hrs 10 mins  >========================   02.94 %
+Rust                 248 hrs 19 mins >>>>>>>==================   26.81 %
+C                    189 hrs 50 mins >>>>>====================   20.49 %
+Svelte               77 hrs 22 mins  >>=======================   08.35 %
+Nix                  72 hrs 11 mins  >>=======================   07.79 %
+Bash                 53 hrs 30 mins  >========================   05.78 %
+HTML                 28 hrs 34 mins  >========================   03.08 %
+Other                27 hrs 10 mins  >========================   02.93 %
 Markdown             26 hrs 12 mins  >========================   02.83 %
 Python               22 hrs 22 mins  >========================   02.42 %
 CSS                  20 hrs 53 mins  >========================   02.26 %
 Astro                16 hrs 26 mins  =========================   01.78 %
-TOML                 14 hrs 33 mins  =========================   01.58 %
-YAML                 13 hrs 10 mins  =========================   01.43 %
+TOML                 14 hrs 33 mins  =========================   01.57 %
+YAML                 13 hrs 10 mins  =========================   01.42 %
 JSON                 12 hrs 35 mins  =========================   01.36 %
 Makefile             10 hrs 10 mins  =========================   01.10 %
 SCSS                 9 hrs 36 mins   =========================   01.04 %
