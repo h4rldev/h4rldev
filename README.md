@@ -83,15 +83,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 25 September 2025
+From: 21 February 2023 - To: 26 September 2025
 
-Total Time: 902 hrs 13 mins
+Total Time: 902 hrs 35 mins
 
-Rust                 250 hrs 47 mins >>>>>>>==================   26.98 %
+Rust                 250 hrs 47 mins >>>>>>>==================   26.97 %
 C                    189 hrs 50 mins >>>>>====================   20.42 %
 Svelte               77 hrs 22 mins  >>=======================   08.32 %
-Nix                  72 hrs 41 mins  >>=======================   07.82 %
-Bash                 53 hrs 30 mins  >========================   05.76 %
+Nix                  72 hrs 52 mins  >>=======================   07.84 %
+Bash                 53 hrs 30 mins  >========================   05.75 %
 HTML                 28 hrs 34 mins  >========================   03.07 %
 Other                27 hrs 16 mins  >========================   02.93 %
 Markdown             26 hrs 14 mins  >========================   02.82 %
@@ -99,7 +99,7 @@ Python               22 hrs 22 mins  >========================   02.41 %
 CSS                  20 hrs 53 mins  >========================   02.25 %
 Astro                16 hrs 26 mins  =========================   01.77 %
 TOML                 14 hrs 34 mins  =========================   01.57 %
-YAML                 13 hrs 10 mins  =========================   01.42 %
+YAML                 13 hrs 22 mins  =========================   01.44 %
 JSON                 12 hrs 35 mins  =========================   01.35 %
 Makefile             10 hrs 10 mins  =========================   01.09 %
 SCSS                 9 hrs 36 mins   =========================   01.03 %
@@ -128,7 +128,7 @@ Kotlin               39 mins         =========================   00.07 %
 gitconfig            39 mins         =========================   00.07 %
 shell script         35 mins         =========================   00.06 %
 SQL                  31 mins         =========================   00.06 %
-GDScript3            30 mins         =========================   00.06 %
+GDScript3            30 mins         =========================   00.05 %
 Java Properties      29 mins         =========================   00.05 %
 Ezhil                28 mins         =========================   00.05 %
 Objective-C          28 mins         =========================   00.05 %
