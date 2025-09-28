@@ -83,27 +83,27 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 27 September 2025
+From: 21 February 2023 - To: 28 September 2025
 
-Total Time: 902 hrs 38 mins
+Total Time: 903 hrs 43 mins
 
-Rust                 250 hrs 47 mins >>>>>>>==================   26.97 %
-C                    189 hrs 50 mins >>>>>====================   20.41 %
-Svelte               77 hrs 22 mins  >>=======================   08.32 %
-Nix                  72 hrs 52 mins  >>=======================   07.84 %
+Rust                 250 hrs 47 mins >>>>>>>==================   26.94 %
+C                    189 hrs 50 mins >>>>>====================   20.39 %
+Svelte               77 hrs 22 mins  >>=======================   08.31 %
+Nix                  72 hrs 52 mins  >>=======================   07.83 %
 Bash                 53 hrs 30 mins  >========================   05.75 %
 HTML                 28 hrs 34 mins  >========================   03.07 %
 Other                27 hrs 16 mins  >========================   02.93 %
 Markdown             26 hrs 14 mins  >========================   02.82 %
-Python               22 hrs 22 mins  >========================   02.41 %
-CSS                  20 hrs 53 mins  >========================   02.25 %
+Python               22 hrs 22 mins  >========================   02.40 %
+CSS                  20 hrs 53 mins  >========================   02.24 %
 Astro                16 hrs 26 mins  =========================   01.77 %
-TOML                 14 hrs 34 mins  =========================   01.57 %
-YAML                 13 hrs 22 mins  =========================   01.44 %
-JSON                 12 hrs 37 mins  =========================   01.36 %
+TOML                 14 hrs 49 mins  =========================   01.59 %
+YAML                 14 hrs 8 mins   =========================   01.52 %
+JSON                 12 hrs 41 mins  =========================   01.36 %
 Makefile             10 hrs 10 mins  =========================   01.09 %
 SCSS                 9 hrs 36 mins   =========================   01.03 %
-JavaScript           7 hrs 57 mins   =========================   00.86 %
+JavaScript           7 hrs 57 mins   =========================   00.85 %
 TypeScript           7 hrs 33 mins   =========================   00.81 %
 Java                 6 hrs 53 mins   =========================   00.74 %
 Odin                 6 hrs 6 mins    =========================   00.66 %
