@@ -83,25 +83,25 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 11 October 2025
+From: 21 February 2023 - To: 12 October 2025
 
-Total Time: 925 hrs 35 mins
+Total Time: 926 hrs 20 mins
 
-Rust                 261 hrs 42 mins >>>>>>>==================   27.46 %
-C                    189 hrs 50 mins >>>>>====================   19.92 %
-Svelte               77 hrs 22 mins  >>=======================   08.12 %
-Nix                  74 hrs 8 mins   >>=======================   07.78 %
-Bash                 53 hrs 30 mins  >========================   05.62 %
+Rust                 261 hrs 42 mins >>>>>>>==================   27.44 %
+C                    189 hrs 50 mins >>>>>====================   19.91 %
+Svelte               77 hrs 22 mins  >>=======================   08.11 %
+Nix                  74 hrs 8 mins   >>=======================   07.77 %
+Bash                 53 hrs 30 mins  >========================   05.61 %
 HTML                 31 hrs 26 mins  >========================   03.30 %
 Other                27 hrs 16 mins  >========================   02.86 %
 Markdown             26 hrs 42 mins  >========================   02.80 %
 Python               22 hrs 22 mins  >========================   02.35 %
 CSS                  22 hrs 13 mins  >========================   02.33 %
-Astro                16 hrs 26 mins  =========================   01.73 %
+Astro                16 hrs 26 mins  =========================   01.72 %
 TOML                 14 hrs 53 mins  =========================   01.56 %
 YAML                 14 hrs 8 mins   =========================   01.48 %
 JSON                 12 hrs 42 mins  =========================   01.33 %
-Lua                  10 hrs 11 mins  =========================   01.07 %
+Lua                  10 hrs 56 mins  =========================   01.15 %
 Makefile             10 hrs 10 mins  =========================   01.07 %
 SCSS                 9 hrs 36 mins   =========================   01.01 %
 JavaScript           8 hrs 1 min     =========================   00.84 %
