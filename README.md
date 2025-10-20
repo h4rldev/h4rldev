@@ -83,18 +83,18 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 19 October 2025
+From: 21 February 2023 - To: 20 October 2025
 
-Total Time: 929 hrs 1 min
+Total Time: 929 hrs 58 mins
 
-Rust                 261 hrs 42 mins >>>>>>>==================   27.37 %
-C                    189 hrs 50 mins >>>>>====================   19.85 %
-Svelte               77 hrs 22 mins  >>=======================   08.09 %
+Rust                 262 hrs 11 mins >>>>>>>==================   27.39 %
+C                    189 hrs 50 mins >>>>>====================   19.83 %
+Svelte               77 hrs 22 mins  >>=======================   08.08 %
 Nix                  74 hrs 26 mins  >>=======================   07.78 %
-Bash                 53 hrs 30 mins  >========================   05.59 %
-HTML                 31 hrs 26 mins  >========================   03.29 %
+Bash                 53 hrs 31 mins  >========================   05.59 %
+HTML                 31 hrs 41 mins  >========================   03.31 %
 Other                27 hrs 16 mins  >========================   02.85 %
-Markdown             26 hrs 42 mins  >========================   02.79 %
+Markdown             26 hrs 43 mins  >========================   02.79 %
 Python               22 hrs 22 mins  >========================   02.34 %
 CSS                  22 hrs 13 mins  >========================   02.32 %
 Astro                16 hrs 26 mins  =========================   01.72 %
@@ -109,8 +109,8 @@ TypeScript           7 hrs 33 mins   =========================   00.79 %
 Java                 6 hrs 53 mins   =========================   00.72 %
 Odin                 6 hrs 6 mins    =========================   00.64 %
 zserio               5 hrs 12 mins   =========================   00.54 %
-Vue.js               4 hrs 44 mins   =========================   00.50 %
-Docker               4 hrs 32 mins   =========================   00.48 %
+Vue.js               4 hrs 44 mins   =========================   00.49 %
+Docker               4 hrs 43 mins   =========================   00.49 %
 conf                 4 hrs 16 mins   =========================   00.45 %
 sh                   3 hrs 38 mins   =========================   00.38 %
 INI                  2 hrs 52 mins   =========================   00.30 %
