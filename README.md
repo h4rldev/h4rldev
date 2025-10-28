@@ -83,20 +83,20 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 26 October 2025
+From: 21 February 2023 - To: 27 October 2025
 
-Total Time: 964 hrs 48 mins
+Total Time: 965 hrs 54 mins
 
-Rust                 269 hrs 41 mins >>>>>>>==================   27.18 %
-C                    189 hrs 50 mins >>>>>====================   19.14 %
-Nix                  77 hrs 28 mins  >>=======================   07.81 %
-Svelte               77 hrs 22 mins  >>=======================   07.80 %
-Bash                 55 hrs 1 min    >========================   05.55 %
+Rust                 270 hrs 35 mins >>>>>>>==================   27.24 %
+C                    189 hrs 50 mins >>>>>====================   19.11 %
+Nix                  77 hrs 31 mins  >>=======================   07.81 %
+Svelte               77 hrs 22 mins  >>=======================   07.79 %
+Bash                 55 hrs 1 min    >========================   05.54 %
 HTML                 34 hrs 3 mins   >========================   03.43 %
 Markdown             28 hrs 28 mins  >========================   02.87 %
 Other                27 hrs 17 mins  >========================   02.75 %
-CSS                  23 hrs 23 mins  >========================   02.36 %
-Python               22 hrs 22 mins  >========================   02.26 %
+CSS                  23 hrs 23 mins  >========================   02.35 %
+Python               22 hrs 22 mins  >========================   02.25 %
 Lua                  20 hrs 34 mins  >========================   02.07 %
 YAML                 17 hrs 34 mins  =========================   01.77 %
 Astro                16 hrs 26 mins  =========================   01.66 %
@@ -115,8 +115,8 @@ conf                 4 hrs 16 mins   =========================   00.43 %
 sh                   3 hrs 42 mins   =========================   00.37 %
 INI                  2 hrs 52 mins   =========================   00.29 %
 gitignore            2 hrs 37 mins   =========================   00.26 %
+sshconfig            2 hrs 17 mins   =========================   00.23 %
 Text                 2 hrs 15 mins   =========================   00.23 %
-sshconfig            2 hrs 8 mins    =========================   00.22 %
 Assembly             1 hr 49 mins    =========================   00.18 %
 PowerShell           1 hr 33 mins    =========================   00.16 %
 gitrebase            1 hr 30 mins    =========================   00.15 %
