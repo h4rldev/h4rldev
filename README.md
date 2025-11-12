@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 10 November 2025
+From: 21 February 2023 - To: 11 November 2025
 
 Total Time: 983 hrs 49 mins
 
@@ -150,9 +150,9 @@ udevrules            4 mins          =========================   00.01 %
 Image (svg)          3 mins          =========================   00.00 %
 fstab                2 mins          =========================   00.00 %
 ActionScript 3       2 mins          =========================   00.00 %
+zsh                  1 min           =========================   00.00 %
 netrw                1 min           =========================   00.00 %
 Roff                 1 min           =========================   00.00 %
-zsh                  1 min           =========================   00.00 %
 git ignore           1 min           =========================   00.00 %
 D                    1 min           =========================   00.00 %
 ActionScript         1 min           =========================   00.00 %
