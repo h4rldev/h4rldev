@@ -83,26 +83,26 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 22 November 2025
+From: 21 February 2023 - To: 23 November 2025
 
-Total Time: 985 hrs 48 mins
+Total Time: 987 hrs 41 mins
 
-Rust                 284 hrs 47 mins >>>>>>>==================   28.11 %
-C                    190 hrs 2 mins  >>>>>====================   18.76 %
-Nix                  78 hrs 50 mins  >>=======================   07.78 %
-Svelte               77 hrs 23 mins  >>=======================   07.64 %
-Bash                 55 hrs 8 mins   >========================   05.44 %
+Rust                 284 hrs 47 mins >>>>>>>==================   28.06 %
+C                    191 hrs 55 mins >>>>>====================   18.91 %
+Nix                  78 hrs 50 mins  >>=======================   07.77 %
+Svelte               77 hrs 23 mins  >>=======================   07.62 %
+Bash                 55 hrs 8 mins   >========================   05.43 %
 HTML                 34 hrs 10 mins  >========================   03.37 %
 Markdown             28 hrs 30 mins  >========================   02.81 %
 Other                27 hrs 17 mins  >========================   02.69 %
-CSS                  23 hrs 23 mins  >========================   02.31 %
-Python               22 hrs 22 mins  >========================   02.21 %
+CSS                  23 hrs 23 mins  >========================   02.30 %
+Python               22 hrs 22 mins  >========================   02.20 %
 Lua                  21 hrs 13 mins  >========================   02.09 %
 YAML                 18 hrs 25 mins  =========================   01.82 %
 Astro                16 hrs 26 mins  =========================   01.62 %
 TOML                 16 hrs 3 mins   =========================   01.58 %
 JSON                 13 hrs 40 mins  =========================   01.35 %
-Makefile             11 hrs 36 mins  =========================   01.15 %
+Makefile             11 hrs 36 mins  =========================   01.14 %
 JavaScript           9 hrs 51 mins   =========================   00.97 %
 SCSS                 9 hrs 36 mins   =========================   00.95 %
 TypeScript           9 hrs 1 min     =========================   00.89 %
