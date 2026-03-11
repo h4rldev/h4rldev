@@ -67,17 +67,6 @@ You can click the Preview link to take a look at your changes.
 
 <h4>Data and misc.</h4>
 <details>
-    <summary>Discord Servers</summary>
-    <ul>
-        <li>
-            The Nagai Project Discord Server, the place to discuss the Nagai project and its related projects, Nagai is a Linux distribution that aims to be a lightweight, fast, and secure desktop environment, with it's own desktop environment. <br/ >
-            <a href="https://discord.gg/je4RAnC9MF" target="_blank">
-                Join the Nagai Project Discord Server here!
-            </a>
-        </li>
-    </ul>
-</details>
-<details>
     <summary>Wakatime</summary>
 
 <!--START_SECTION:waka-->
