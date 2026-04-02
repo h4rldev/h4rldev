@@ -2412,7 +2412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>henrygd/beszel</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight server monitoring with historical data, docker stats, and alerts.</div>
@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radareorg/radare2</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UNIX-like reverse engineering framework and command-line toolset</div>
@@ -2518,7 +2518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>legalize-dev/legalize-es</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.</div>
@@ -2723,7 +2723,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Apr 2026, 18:48:24 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Apr 2026, 19:42:44 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
