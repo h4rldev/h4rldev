@@ -2417,7 +2417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>henrygd/beszel</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight server monitoring with historical data, docker stats, and alerts.</div>
@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radareorg/radare2</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UNIX-like reverse engineering framework and command-line toolset</div>
@@ -2722,7 +2722,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2026, 06:23:43 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Apr 2026, 08:07:34 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
