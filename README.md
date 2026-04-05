@@ -72,22 +72,22 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 04 April 2026
+From: 21 February 2023 - To: 05 April 2026
 
-Total Time: 1,223 hrs 14 mins
+Total Time: 1,225 hrs 12 mins
 
-C                     340 hrs 49 mins >>>>>>>==================   27.23 %
-Rust                  287 hrs 12 mins >>>>>>===================   22.95 %
-Nix                   94 hrs 21 mins  >>=======================   07.54 %
-Svelte                90 hrs 3 mins   >>=======================   07.19 %
+C                     342 hrs 45 mins >>>>>>>==================   27.34 %
+Rust                  287 hrs 12 mins >>>>>>===================   22.91 %
+Nix                   94 hrs 23 mins  >>=======================   07.53 %
+Svelte                90 hrs 3 mins   >>=======================   07.18 %
 Bash                  58 hrs 59 mins  >========================   04.71 %
-HTML                  41 hrs 1 min    >========================   03.28 %
+HTML                  41 hrs 1 min    >========================   03.27 %
 Markdown              33 hrs 12 mins  >========================   02.65 %
-Other                 28 hrs 20 mins  >========================   02.27 %
-CSS                   26 hrs 35 mins  >========================   02.13 %
-Python                22 hrs 22 mins  =========================   01.79 %
+Other                 28 hrs 20 mins  >========================   02.26 %
+CSS                   26 hrs 35 mins  >========================   02.12 %
+Python                22 hrs 22 mins  =========================   01.78 %
 Lua                   22 hrs 8 mins   =========================   01.77 %
-Makefile              20 hrs 44 mins  =========================   01.66 %
+Makefile              20 hrs 44 mins  =========================   01.65 %
 YAML                  19 hrs 52 mins  =========================   01.59 %
 TypeScript            18 hrs 37 mins  =========================   01.49 %
 TOML                  16 hrs 38 mins  =========================   01.33 %
@@ -110,7 +110,7 @@ Objective-C           2 hrs 38 mins   =========================   00.21 %
 sshconfig             2 hrs 36 mins   =========================   00.21 %
 Assembly              2 hrs 12 mins   =========================   00.18 %
 SQL                   2 hrs 11 mins   =========================   00.18 %
-PowerShell            1 hr 33 mins    =========================   00.13 %
+PowerShell            1 hr 33 mins    =========================   00.12 %
 gitrebase             1 hr 30 mins    =========================   00.12 %
 Git Config            1 hr 16 mins    =========================   00.10 %
 QML                   1 hr 13 mins    =========================   00.10 %
