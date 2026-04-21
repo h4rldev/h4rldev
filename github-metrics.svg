@@ -2402,7 +2402,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-index</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]</div>
@@ -2561,7 +2561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PowerShell/PowerShell</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PowerShell for every system!</div>
@@ -2719,7 +2719,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Apr 2026, 18:50:32 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Apr 2026, 19:53:48 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
