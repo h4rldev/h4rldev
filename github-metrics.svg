@@ -2433,7 +2433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Treeniks/chameleos</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Screen annotation tool for niri and Hyprland</div>
@@ -2486,7 +2486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neondatabase/neon</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</div>
@@ -2750,7 +2750,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Apr 2026, 08:55:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Apr 2026, 10:13:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
