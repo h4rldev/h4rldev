@@ -72,16 +72,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2023 - To: 04 June 2026
+From: 21 February 2023 - To: 05 June 2026
 
-Total Time: 1,337 hrs 18 mins
+Total Time: 1,337 hrs 30 mins
 
 C                     421 hrs 57 mins >>>>>>>>=================   30.89 %
 Rust                  287 hrs 13 mins >>>>>====================   21.03 %
 Nix                   104 hrs 21 mins >>=======================   07.64 %
 Svelte                90 hrs 8 mins   >>=======================   06.60 %
 Bash                  59 hrs 4 mins   >========================   04.32 %
-HTML                  41 hrs 2 mins   >========================   03.01 %
+HTML                  41 hrs 2 mins   >========================   03.00 %
 Markdown              35 hrs 45 mins  >========================   02.62 %
 Other                 28 hrs 30 mins  >========================   02.09 %
 CSS                   26 hrs 35 mins  =========================   01.95 %
@@ -112,8 +112,8 @@ sshconfig             2 hrs 36 mins   =========================   00.19 %
 Gleam                 2 hrs 25 mins   =========================   00.18 %
 SQL                   2 hrs 15 mins   =========================   00.17 %
 Assembly              2 hrs 12 mins   =========================   00.16 %
+Erlang                1 hr 44 mins    =========================   00.13 %
 PowerShell            1 hr 33 mins    =========================   00.11 %
-Erlang                1 hr 32 mins    =========================   00.11 %
 gitrebase             1 hr 30 mins    =========================   00.11 %
 Git Config            1 hr 16 mins    =========================   00.09 %
 QML                   1 hr 13 mins    =========================   00.09 %
