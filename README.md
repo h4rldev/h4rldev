@@ -3,6 +3,13 @@ h4rldev/h4rldev is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<h3> Hi </h3>
+<p>
+    If you've planned to check on my projects, I won't be active any longer on GitHub due to their antics. <br/>
+    Check me out on <a href="https://codeberg.org/h4rl" target="_blank">Codeberg instead.</a>
+</p>
+
+
 <h4> Last.FM </h4>
     <br>
 <a href="https://www.last.fm/user/h4rl3h">
