@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mic92/direnv-instant</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.</div>
@@ -2713,7 +2713,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2026, 19:21:45 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Aug 2026, 21:16:48 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
