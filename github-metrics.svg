@@ -2412,7 +2412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xiph/opus</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern audio compression for the internet.</div>
@@ -2465,7 +2465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cloudflare/cloudflare-os</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.</div>
@@ -2724,7 +2724,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2026, 00:32:07 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Aug 2026, 01:32:34 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
